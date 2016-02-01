@@ -260,10 +260,14 @@ iw
 jack2
 jansson
 jasper
+java-openjfx
+java-runtime-common
 jbig2dec
 jemalloc
 jfsutils
 jnettop
+jre8-openjdk
+jre8-openjdk-headless
 js
 js17
 js185
