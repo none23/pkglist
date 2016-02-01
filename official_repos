@@ -1080,7 +1080,6 @@ subversion
 sudo
 swh-plugins
 sysfsutils
-syslinux
 sysstat
 systemd
 systemd-sysvcompat
