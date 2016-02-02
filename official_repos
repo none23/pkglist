@@ -17,6 +17,8 @@ antiword
 apr
 apr-util
 arandr
+arch-install-scripts
+archiso
 archlinux-keyring
 aspell
 at-spi2-atk
@@ -414,6 +416,7 @@ libatomic_ops
 libavc1394
 libbluray
 libbsd
+libburn
 libcaca
 libcacard
 libcanberra
@@ -481,6 +484,8 @@ libiec61883
 libimobiledevice
 libinput
 libirman
+libisoburn
+libisofs
 libjpeg-turbo
 libkactivities4
 libkate
@@ -654,6 +659,7 @@ lv2
 lvm2
 lxappearance
 lxterminal
+lynx
 lz4
 lzo
 m17n-db
@@ -977,6 +983,7 @@ python2-xdg
 python2-zope-interface
 qca-qt4
 qrencode
+qscintilla-qt4
 qt4
 qt5-base
 qt5-declarative
