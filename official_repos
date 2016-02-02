@@ -404,7 +404,6 @@ lib32-xz
 lib32-zlib
 libabw
 libaio
-libakonadi-qt4
 libao
 libarchive
 libass
@@ -475,7 +474,6 @@ libgudev
 libgusb
 libhubbub
 libibus
-libical
 libice
 libid3tag
 libidn
@@ -826,7 +824,6 @@ potrace
 ppp
 presentproto
 printproto
-prison
 procinfo-ng
 procps-ng
 profont
@@ -979,7 +976,6 @@ python2-virtualenv
 python2-xdg
 python2-zope-interface
 qca-qt4
-qjson
 qrencode
 qscintilla-qt4
 qt4
