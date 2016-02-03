@@ -177,14 +177,12 @@ glibmm
 glproto
 glu
 gmp
-gnome-doc-utils
 gnome-icon-theme-symbolic
 gnome-keyring
 gnome-themes-standard
 gnupg
 gnuplot
 gnutls
-gobject-introspection
 gobject-introspection-runtime
 gpart
 gparted
@@ -252,7 +250,6 @@ imlib2
 inetutils
 inputproto
 intel-ucode
-intltool
 iperf3
 ipmitool
 iproute2
@@ -441,7 +438,6 @@ libdbus
 libdbusmenu-qt4
 libdbusmenu-qt5
 libdca
-libdmtx
 libdmx
 libdom
 libdrm
@@ -985,7 +981,6 @@ python2-virtualenv
 python2-xdg
 python2-zope-interface
 qca-qt4
-qrencode
 qscintilla-qt4
 qt4
 qt5-base
@@ -1151,7 +1146,6 @@ usbredir
 usbutils
 util-linux
 v4l-utils
-vala
 vde2
 vi
 vicious
