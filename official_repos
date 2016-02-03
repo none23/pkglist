@@ -177,12 +177,14 @@ glibmm
 glproto
 glu
 gmp
+gnome-doc-utils
 gnome-icon-theme-symbolic
 gnome-keyring
 gnome-themes-standard
 gnupg
 gnuplot
 gnutls
+gobject-introspection
 gobject-introspection-runtime
 gpart
 gparted
@@ -250,6 +252,7 @@ imlib2
 inetutils
 inputproto
 intel-ucode
+intltool
 iperf3
 ipmitool
 iproute2
@@ -435,8 +438,6 @@ libcups
 libdaemon
 libdatrie
 libdbus
-libdbusmenu-glib
-libdbusmenu-gtk3
 libdbusmenu-qt4
 libdbusmenu-qt5
 libdca
@@ -929,6 +930,7 @@ python-xlrd
 python-xlwt
 python2
 python2-babel
+python2-beaker
 python2-boto
 python2-cairo
 python2-capstone
@@ -949,6 +951,7 @@ python2-ipaddress
 python2-jdcal
 python2-jinja
 python2-lxml
+python2-mako
 python2-markupsafe
 python2-numpy
 python2-opengl
@@ -1010,6 +1013,7 @@ r
 randrproto
 ranger
 raptor
+rarian
 rasqal
 read-edid
 readline
@@ -1147,6 +1151,7 @@ usbredir
 usbutils
 util-linux
 v4l-utils
+vala
 vde2
 vi
 vicious
