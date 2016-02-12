@@ -589,6 +589,7 @@ libwebp
 libwmf
 libwpd
 libwpg
+libwps
 libx11
 libx264
 libx86
@@ -857,6 +858,7 @@ python-dateutil
 python-dbus
 python-dbus-common
 python-decorator
+python-django
 python-docutils
 python-ecdsa
 python-et-xmlfile
@@ -892,6 +894,7 @@ python-pexpect
 python-pip
 python-pluggy
 python-ply
+python-psycopg2
 python-ptyprocess
 python-py
 python-pyasn1
