@@ -72,6 +72,7 @@ cmake
 colord
 colord-gtk
 compositeproto
+confuse
 coreutils
 cowpatty
 cpupower
@@ -240,6 +241,9 @@ hunspell
 hwids
 hydra
 hyphen
+i3-wm
+i3lock
+i3status
 iana-etc
 ibus
 icu
@@ -451,6 +455,7 @@ libedit
 libelf
 libepoxy
 libetonyek
+libev
 libevdev
 libevent
 libewf
