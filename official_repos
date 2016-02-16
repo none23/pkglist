@@ -168,6 +168,7 @@ gettext
 giflib
 girara
 git
+gksu
 glew
 glib-networking
 glib-perl
@@ -468,12 +469,14 @@ libfs
 libftdi-compat
 libgcrypt
 libgdiplus
+libgksu
 libglade
 libgme
 libgnome-keyring
 libgpg-error
 libgsf
 libgssglue
+libgtop
 libgudev
 libgusb
 libhubbub
