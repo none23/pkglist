@@ -938,6 +938,7 @@ python-xdg
 python-xlrd
 python-xlwt
 python2
+python2-attrs
 python2-babel
 python2-beaker
 python2-boto
