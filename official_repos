@@ -235,6 +235,7 @@ highlight
 hping
 hspell
 htop
+http-parser
 httpie
 hub
 hunspell
@@ -719,7 +720,9 @@ nfs-utils
 nfsidmap
 nilfs-utils
 nmap
+nodejs
 notification-daemon
+npm
 npth
 nspr
 nss
@@ -1059,6 +1062,7 @@ sdl_image
 sdl_ttf
 sdparm
 sed
+semver
 serf
 shadow
 shared-mime-info
