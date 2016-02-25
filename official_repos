@@ -1191,6 +1191,7 @@ vim-syntastic
 vim-taglist
 vinagre
 virtualbox
+virtualbox-host-dkms
 virtualbox-host-modules
 vlc
 vncviewer-jar
