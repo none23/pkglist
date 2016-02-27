@@ -36,6 +36,7 @@ automake
 autossh
 avahi
 awesome
+babl
 baobab
 bash
 bash-completion
@@ -161,12 +162,14 @@ gd
 gdbm
 gdk-pixbuf2
 geeqie
+gegl02
 geoclue
 geoclue2
 geoip
 geoip-database
 gettext
 giflib
+gimp
 girara
 git
 gksu
@@ -559,6 +562,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspiro
 libssh
 libssh2
 libsynctex
@@ -1192,7 +1196,6 @@ vim-taglist
 vinagre
 virtualbox
 virtualbox-host-dkms
-virtualbox-host-modules
 vlc
 vncviewer-jar
 vte
