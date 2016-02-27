@@ -729,6 +729,7 @@ nfsidmap
 nilfs-utils
 nmap
 nodejs
+nodejs-grunt-cli
 notification-daemon
 npm
 npth
