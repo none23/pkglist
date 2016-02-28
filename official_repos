@@ -111,7 +111,6 @@ dwb
 e2fsprogs
 elfutils
 elinks
-emacs
 enca
 enchant
 ethtool
@@ -679,7 +678,6 @@ lynx
 lz4
 lzo
 m17n-db
-m17n-lib
 m4
 macchanger
 make
@@ -957,7 +955,6 @@ python2-boto
 python2-cairo
 python2-capstone
 python2-cffi
-python2-characteristic
 python2-crypto
 python2-cryptography
 python2-dbus
@@ -973,7 +970,6 @@ python2-ipaddress
 python2-jdcal
 python2-jinja
 python2-lxml
-python2-mako
 python2-markupsafe
 python2-numpy
 python2-opengl
@@ -1034,7 +1030,6 @@ r
 randrproto
 ranger
 raptor
-rarian
 rasqal
 read-edid
 readline

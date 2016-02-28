@@ -18,10 +18,8 @@ python-behave
 python-botocore
 python-guzzle-sphinx-theme
 python-isort
-python-natsort
 python-nmap
 python-parse_type
-python-pies
 python-powerline-git
 python-pyqtgraph
 python-twython
