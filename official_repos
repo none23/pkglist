@@ -678,7 +678,6 @@ lxterminal
 lynx
 lz4
 lzo
-m17n-db
 m4
 macchanger
 make
@@ -951,7 +950,6 @@ python-xlwt
 python2
 python2-attrs
 python2-babel
-python2-beaker
 python2-boto
 python2-cairo
 python2-capstone
