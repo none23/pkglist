@@ -46,6 +46,7 @@ binutils
 bison
 blas
 boost-libs
+bower
 bridge-utils
 btrfs-progs
 bzip2
@@ -1155,6 +1156,7 @@ turbostat
 tzdata
 udevil
 udisks2
+uglify-js
 unclutter
 unhide
 unibilium
