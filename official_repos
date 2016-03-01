@@ -118,6 +118,7 @@ ethtool
 exfat-utils
 exiv2
 exo
+expac
 expat
 f2fs-tools
 faac
@@ -282,6 +283,7 @@ jre8-openjdk-headless
 js
 js17
 js185
+jshon
 json-c
 json-glib
 jsoncpp
