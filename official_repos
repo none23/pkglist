@@ -133,6 +133,7 @@ fil-plugins
 file
 file-roller
 filesystem
+filezilla
 findutils
 firefox
 fixesproto
@@ -472,6 +473,7 @@ libexif
 libfbclient
 libffado
 libffi
+libfilezilla
 libfontenc
 libfreexl
 libfs
