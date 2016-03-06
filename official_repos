@@ -891,6 +891,7 @@ python-greenlet
 python-httplib2
 python-idna
 python-ipdb
+python-ipykernel
 python-jdcal
 python-jedi
 python-jinja
