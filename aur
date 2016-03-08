@@ -8,7 +8,6 @@ firejail
 gtk-theme-config
 httrack
 lain-git
-metasploit
 neovim-qt-git
 nodejs-express-generator
 nodejs-jade
@@ -27,7 +26,6 @@ python-pyqtgraph
 python-twython
 python2-natsort
 reaver-wps-fork-t6x
-ruby-pg
 shallot-git
 shantz-xwinwrap-bzr
 systemd-readahead

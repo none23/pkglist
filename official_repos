@@ -650,7 +650,6 @@ libxv
 libxvmc
 libxxf86dga
 libxxf86vm
-libyaml
 libzen
 licenses
 lightdm
@@ -1053,17 +1052,7 @@ rpcbind
 rrdtool
 rsync
 rtmpdump
-ruby
-ruby-bundler
-ruby-diff-lcs
 ruby-docs
-ruby-mustache
-ruby-rack
-ruby-rspec
-ruby-rspec-core
-ruby-rspec-expectations
-ruby-rspec-mocks
-ruby-rspec-support
 run-parts
 rxvt-unicode
 rxvt-unicode-terminfo
