@@ -67,6 +67,7 @@ cdrdao
 celt
 celt0.5.1
 cgroup_event_listener
+chromaprint
 chromium
 cifs-utils
 clucene
@@ -81,7 +82,6 @@ cpupower
 cracklib
 crda
 cryptsetup
-ctags
 curl
 damageproto
 db
@@ -142,6 +142,7 @@ flake8
 flex
 floyd
 fltk
+fluidsynth
 font-bh-ttf
 fontconfig
 fonteditfs
@@ -197,6 +198,7 @@ gpgme
 gpgmepp
 gpm
 gptfdisk
+graphene
 graphite
 grep
 grml-zsh-config
@@ -208,6 +210,7 @@ gsl
 gsm
 gssproxy
 gst-libav
+gst-plugins-bad
 gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
@@ -231,7 +234,6 @@ guvcview
 gvfs
 gvfs-afc
 gvfs-smb
-gvim
 gzip
 harfbuzz
 harfbuzz-icu
@@ -533,6 +535,7 @@ libnm-glib
 libnotify
 liboauth
 libodfgen
+libofa
 libogg
 libomxil-bellagio
 libotf
@@ -567,6 +570,7 @@ libsodium
 libsoup
 libsoxr
 libspiro
+libsrtp
 libssh
 libssh2
 libsynctex
@@ -892,7 +896,6 @@ python-idna
 python-ipdb
 python-ipykernel
 python-jdcal
-python-jedi
 python-jinja
 python-jmespath
 python-jsonschema
@@ -1057,6 +1060,7 @@ run-parts
 rxvt-unicode
 rxvt-unicode-terminfo
 s-nail
+sbc
 scapy
 schroedinger
 schroot
@@ -1086,6 +1090,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 sox
+spandsp
 speech-dispatcher
 speex
 speexdsp
@@ -1180,21 +1185,6 @@ vicious
 vid.stab
 videoproto
 vile
-vim-colorsamplerpack
-vim-ctrlp
-vim-doxygentoolkit
-vim-fugitive
-vim-guicolorscheme
-vim-indent-object
-vim-jedi
-vim-nerdtree
-vim-omnicppcomplete
-vim-project
-vim-runtime
-vim-supertab
-vim-surround
-vim-syntastic
-vim-taglist
 vinagre
 virtualbox
 virtualbox-host-dkms
@@ -1212,6 +1202,7 @@ webkitgtk
 webkitgtk2
 wget
 which
+wildmidi
 wireless-regdb
 wireless_tools
 wireshark-cli
