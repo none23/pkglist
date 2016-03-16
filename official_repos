@@ -50,6 +50,7 @@ bower
 bridge-utils
 btrfs-progs
 bzip2
+c-ares
 ca-certificates
 ca-certificates-cacert
 ca-certificates-mozilla
