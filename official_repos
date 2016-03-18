@@ -748,6 +748,7 @@ ntp
 numactl
 numix-themes
 ocl-icd
+openal
 openbsd-netcat
 opencore-amr
 opendesktop-fonts
@@ -1017,6 +1018,7 @@ qt5-base
 qt5-declarative
 qt5-graphicaleffects
 qt5-location
+qt5-multimedia
 qt5-script
 qt5-sensors
 qt5-svg
