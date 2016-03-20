@@ -522,6 +522,7 @@ libmediainfo
 libmm-glib
 libmms
 libmng
+libmnl
 libmodplug
 libmp4v2
 libmpc
@@ -533,6 +534,7 @@ libmwaw
 libmythes
 libndp
 libnewt
+libnftnl
 libnl
 libnm-glib
 libnotify
