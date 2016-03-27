@@ -935,6 +935,8 @@ python-pyflakes
 python-pygments
 python-pyparsing
 python-pyqt4
+python-pytest
+python-pytest-django
 python-pytz
 python-pyx
 python-pyzmq
