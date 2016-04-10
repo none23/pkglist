@@ -658,6 +658,7 @@ libxv
 libxvmc
 libxxf86dga
 libxxf86vm
+libyaml
 libzen
 licenses
 lightdm
@@ -1065,6 +1066,8 @@ rpcbind
 rrdtool
 rsync
 rtmpdump
+ruby
+ruby-bundler
 ruby-docs
 run-parts
 rxvt-unicode

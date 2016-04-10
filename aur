@@ -27,6 +27,9 @@ python-twython
 python2-natsort
 python2-nmap
 reaver-wps-fork-t6x
+ruby-maruku
+ruby-sass
+ruby-yard
 shallot-git
 shantz-xwinwrap-bzr
 systemd-readahead
