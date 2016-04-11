@@ -8,6 +8,7 @@ firejail
 geoclue
 gtk-theme-config
 httrack
+jslint
 lain-git
 neovim-qt-git
 nodejs-express-generator
@@ -16,7 +17,6 @@ packer
 pixiewps
 python-bcdoc
 python-behave
-python-botocore
 python-guzzle-sphinx-theme
 python-isort
 python-nmap

@@ -877,7 +877,6 @@ pyqt4-common
 pyrit
 python
 python-babel
-python-boto
 python-cairo
 python-capstone
 python-cffi
@@ -966,7 +965,6 @@ python-xlwt
 python2
 python2-attrs
 python2-babel
-python2-boto
 python2-cairo
 python2-capstone
 python2-cffi
