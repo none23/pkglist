@@ -897,6 +897,7 @@ python-gobject
 python-greenlet
 python-httplib2
 python-idna
+python-imagesize
 python-ipdb
 python-ipykernel
 python-jdcal
@@ -978,6 +979,7 @@ python2-gnuplot
 python2-gobject
 python2-gobject2
 python2-idna
+python2-imagesize
 python2-ipaddress
 python2-jdcal
 python2-jinja
