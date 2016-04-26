@@ -965,6 +965,8 @@ python-xlwt
 python2
 python2-attrs
 python2-babel
+python2-backports
+python2-backports.shutil_get_terminal_size
 python2-cairo
 python2-capstone
 python2-cffi
@@ -990,6 +992,7 @@ python2-opengl
 python2-openpyxl
 python2-packaging
 python2-path
+python2-pathlib
 python2-pexpect
 python2-pillow
 python2-pip
