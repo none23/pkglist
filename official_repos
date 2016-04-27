@@ -104,6 +104,7 @@ dmxproto
 dnssec-anchors
 docbook-xml
 docbook-xsl
+dos2unix
 dosfstools
 dotconf
 dri2proto
@@ -739,7 +740,6 @@ nfsidmap
 nilfs-utils
 nmap
 nodejs
-nodejs-grunt-cli
 notification-daemon
 npm
 npth
