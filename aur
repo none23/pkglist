@@ -18,6 +18,7 @@ python-bcdoc
 python-behave
 python-guzzle-sphinx-theme
 python-isort
+python-natsort
 python-nmap
 python-parse_type
 python-powerline-git
