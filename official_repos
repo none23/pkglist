@@ -238,6 +238,7 @@ gvfs-smb
 gzip
 harfbuzz
 harfbuzz-icu
+hdf5
 hdparm
 hicolor-icon-theme
 highlight
@@ -730,6 +731,7 @@ neon
 neovim
 net-snmp
 net-tools
+netcdf
 netcf
 netctl
 nettle
