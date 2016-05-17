@@ -284,6 +284,7 @@ jbig2dec
 jemalloc
 jfsutils
 jnettop
+jq
 jre8-openjdk
 jre8-openjdk-headless
 js
@@ -753,6 +754,7 @@ ntp
 numactl
 numix-themes
 ocl-icd
+oniguruma
 openal
 openbsd-netcat
 opencore-amr
