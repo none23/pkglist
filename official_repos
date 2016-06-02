@@ -171,6 +171,7 @@ geoclue2
 geoip
 geoip-database
 gettext
+giblib
 giflib
 gimp
 girara
@@ -296,6 +297,8 @@ json-glib
 jsoncpp
 jupyter
 jupyter-notebook
+kaa-base
+kaa-imlib2
 karchive
 kauth
 kbd
@@ -694,6 +697,7 @@ lz4
 lzo
 m4
 macchanger
+maim
 make
 man-db
 man-pages
@@ -989,6 +993,7 @@ python2-imagesize
 python2-ipaddress
 python2-jdcal
 python2-jinja
+python2-lcms
 python2-lxml
 python2-markupsafe
 python2-numpy
@@ -1097,9 +1102,11 @@ serf
 shadow
 shared-mime-info
 sip
+sk1
 sk1libs
 slang
 sleuthkit
+slop
 smartmontools
 smbclient
 snappy
