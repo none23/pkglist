@@ -69,7 +69,9 @@ celt0.5.1
 cgroup_event_listener
 chromaprint
 chromium
+chrpath
 cifs-utils
+clang
 clucene
 cmake
 colord
@@ -196,6 +198,7 @@ gnutls
 gobject-introspection-runtime
 gpart
 gparted
+gperf
 gpgme
 gpgmepp
 gpm
@@ -713,6 +716,7 @@ mesa-libgl
 mftrace
 mime-types
 minicom
+minizip
 mjpegtools
 mkinitcpio
 mkinitcpio-busybox
@@ -746,6 +750,7 @@ networkmanager-qt
 nfs-utils
 nfsidmap
 nilfs-utils
+ninja
 nmap
 nodejs
 notification-daemon
@@ -758,6 +763,7 @@ ntop
 ntp
 numactl
 numix-themes
+ocaml
 ocl-icd
 oniguruma
 openal
@@ -820,6 +826,7 @@ perl-io-html
 perl-io-socket-ssl
 perl-io-tty
 perl-ipc-system-simple
+perl-json
 perl-libwww
 perl-list-allutils
 perl-list-moreutils
@@ -976,6 +983,7 @@ python2-attrs
 python2-babel
 python2-backports
 python2-backports.shutil_get_terminal_size
+python2-beautifulsoup4
 python2-cairo
 python2-capstone
 python2-cffi
@@ -989,6 +997,7 @@ python2-et-xmlfile
 python2-gnuplot
 python2-gobject
 python2-gobject2
+python2-html5lib
 python2-idna
 python2-imagesize
 python2-ipaddress
@@ -1020,6 +1029,7 @@ python2-pyx
 python2-reportlab
 python2-service-identity
 python2-setuptools
+python2-simplejson
 python2-sip
 python2-six
 python2-snowballstemmer
@@ -1342,6 +1352,7 @@ xterm
 xvidcore
 xz
 yajl
+yasm
 you-get
 zathura
 zathura-djvu
