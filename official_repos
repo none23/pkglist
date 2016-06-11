@@ -19,6 +19,7 @@ arandr
 arch-install-scripts
 archiso
 archlinux-keyring
+asciidoc
 aspell
 at-spi2-atk
 at-spi2-core
@@ -39,6 +40,7 @@ babl
 baobab
 bash
 bash-completion
+bc
 bdf-unifont
 beep
 binutils
@@ -84,6 +86,8 @@ cpupower
 cracklib
 crda
 cryptsetup
+cups
+cups-filters
 curl
 damageproto
 db
@@ -117,6 +121,7 @@ elfutils
 elinks
 enca
 enchant
+enscript
 ethtool
 exfat-utils
 exiv2
@@ -174,6 +179,7 @@ geoclue2
 geoip
 geoip-database
 gettext
+ghostscript
 giblib
 giflib
 gimp
@@ -191,10 +197,14 @@ glu
 gmp
 gnome-icon-theme-symbolic
 gnome-keyring
+gnome-mime-data
+gnome-python
 gnome-themes-standard
+gnome-vfs
 gnupg
 gnuplot
 gnutls
+gobject-introspection
 gobject-introspection-runtime
 gpart
 gparted
@@ -205,6 +215,7 @@ gpm
 gptfdisk
 graphene
 graphite
+graphviz
 grep
 grml-zsh-config
 groff
@@ -222,6 +233,7 @@ gst-plugins-good
 gstreamer
 gstreamer0.10
 gstreamer0.10-base
+gtk-doc
 gtk-engine-murrine
 gtk-engines
 gtk-theme-switch2
@@ -235,7 +247,9 @@ gtkmm3
 gtksourceview2
 gtksourceview3
 gtkspell
+gts
 guile
+gutenprint
 guvcview
 gvfs
 gvfs-afc
@@ -270,7 +284,9 @@ imlib2
 inetutils
 inkscape
 inputproto
+intel-tbb
 intel-ucode
+intltool
 iperf3
 ipmitool
 iproute2
@@ -279,6 +295,7 @@ iputils
 ipython
 ipython2
 iso-codes
+itstool
 iw
 jack2
 jansson
@@ -435,6 +452,7 @@ libabw
 libaio
 libao
 libarchive
+libart-lgpl
 libass
 libassuan
 libasyncns
@@ -442,6 +460,8 @@ libatasmart
 libatomic_ops
 libavc1394
 libbluray
+libbonobo
+libbonoboui
 libbsd
 libburn
 libcaca
@@ -493,10 +513,15 @@ libfs
 libftdi-compat
 libgcrypt
 libgdiplus
+libgexiv2
 libgksu
 libglade
 libgme
+libgnome
+libgnome-data
 libgnome-keyring
+libgnomecanvas
+libgnomeui
 libgpg-error
 libgsf
 libgssglue
@@ -507,6 +532,7 @@ libhubbub
 libibus
 libice
 libid3tag
+libidl2
 libidn
 libiec61883
 libimobiledevice
@@ -522,6 +548,7 @@ liblangtag
 libldap
 liblightdm-qt4
 liblightdm-qt5
+liblouis
 liblqr
 libmad
 libmariadbclient
@@ -565,6 +592,7 @@ libproxy
 libpulse
 libpwquality
 libqzeitgeist
+libraw
 libraw1394
 libreoffice-still
 librevenge
@@ -777,6 +805,7 @@ openresolv
 openssh
 openssl
 opus
+orbit2
 orc
 os-prober
 oxygen-icons
@@ -888,10 +917,12 @@ pth
 pygobject-devel
 pygobject2-devel
 pygtk
+pyorbit
 pyqt4-common
 pyrit
 python
 python-babel
+python-beaker
 python-cairo
 python-capstone
 python-cffi
@@ -921,6 +952,7 @@ python-jinja
 python-jmespath
 python-jsonschema
 python-lxml
+python-mako
 python-markupsafe
 python-mccabe
 python-mistune
@@ -984,6 +1016,7 @@ python2-babel
 python2-backports
 python2-backports.shutil_get_terminal_size
 python2-beautifulsoup4
+python2-bonobo
 python2-cairo
 python2-capstone
 python2-cffi
@@ -994,6 +1027,9 @@ python2-decorator
 python2-docutils
 python2-enum34
 python2-et-xmlfile
+python2-gconf
+python2-gnomecanvas
+python2-gnomevfs
 python2-gnuplot
 python2-gobject
 python2-gobject2
@@ -1004,6 +1040,7 @@ python2-ipaddress
 python2-jdcal
 python2-jinja
 python2-lcms
+python2-libgnome
 python2-lxml
 python2-markupsafe
 python2-numpy
@@ -1042,6 +1079,7 @@ python2-virtualenv
 python2-xdg
 python2-zope-interface
 qca-qt4
+qpdf
 qscintilla-qt4
 qt4
 qt5-base
@@ -1152,6 +1190,7 @@ stunnel
 stylus
 subversion
 sudo
+suitesparse
 swh-plugins
 sysfsutils
 sysstat
@@ -1354,6 +1393,8 @@ xvidcore
 xz
 yajl
 yasm
+yelp-tools
+yelp-xsl
 you-get
 zathura
 zathura-djvu
