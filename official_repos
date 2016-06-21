@@ -305,7 +305,9 @@ java-runtime-common
 jbig2dec
 jemalloc
 jfsutils
+jhead
 jnettop
+jpegoptim
 jq
 jre8-openjdk
 jre8-openjdk-headless
