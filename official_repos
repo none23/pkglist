@@ -512,6 +512,7 @@ libfilezilla
 libfontenc
 libfreexl
 libfs
+libftdi
 libftdi-compat
 libgcrypt
 libgdiplus
@@ -828,7 +829,6 @@ patch
 pavucontrol
 pciutils
 pcre
-pep8
 perf
 perl
 perl-b-hooks-endofscope
@@ -980,6 +980,7 @@ python-psycopg2
 python-ptyprocess
 python-py
 python-pyasn1
+python-pycodestyle
 python-pycparser
 python-pyflakes
 python-pygments
