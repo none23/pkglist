@@ -950,6 +950,7 @@ python-idna
 python-imagesize
 python-ipdb
 python-ipykernel
+python-isort
 python-jdcal
 python-jinja
 python-jmespath
