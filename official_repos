@@ -979,6 +979,7 @@ python-pexpect
 python-pip
 python-pluggy
 python-ply
+python-prompt_toolkit
 python-psycopg2
 python-ptyprocess
 python-py
@@ -1013,6 +1014,7 @@ python-urllib3
 python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
+python-wcwidth
 python-wheel
 python-xdg
 python-xlrd
@@ -1060,6 +1062,7 @@ python2-pexpect
 python2-pillow
 python2-pip
 python2-ply
+python2-prompt_toolkit
 python2-ptyprocess
 python2-pyasn1
 python2-pyasn1-modules
@@ -1083,6 +1086,7 @@ python2-sphinx_rtd_theme
 python2-sqlalchemy
 python2-twisted
 python2-virtualenv
+python2-wcwidth
 python2-xdg
 python2-zope-interface
 qca-qt4
