@@ -80,6 +80,7 @@ clucene
 cmake
 colord
 colord-gtk
+composer
 compositeproto
 confuse
 coreutils
@@ -702,6 +703,7 @@ libxxf86dga
 libxxf86vm
 libyaml
 libzen
+libzip
 licenses
 lightdm
 lightdm-gtk-greeter
@@ -893,6 +895,7 @@ phonon-qt4
 phonon-qt4-vlc
 phonon-qt5
 phonon-qt5-vlc
+php
 pinentry
 pixman
 pkg-config
