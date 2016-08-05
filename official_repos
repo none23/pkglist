@@ -481,6 +481,7 @@ libcdio
 libcdio-paranoia
 libcdr
 libclc
+libcmis
 libconfig
 libcroco
 libcryptui
@@ -509,6 +510,7 @@ libevdev
 libevent
 libewf
 libexif
+libexttextcat
 libfbclient
 libffado
 libffi
@@ -547,6 +549,7 @@ libinput
 libirman
 libisoburn
 libisofs
+libixion
 libjpeg-turbo
 libkactivities4
 libkate
@@ -585,6 +588,7 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
+liborcus
 libotf
 libpagemaker
 libpaper
