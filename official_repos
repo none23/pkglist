@@ -916,6 +916,8 @@ postgresql
 postgresql-libs
 postgresql-old-upgrade
 potrace
+powerline
+powerline-common
 ppp
 presentproto
 printproto
@@ -987,6 +989,7 @@ python-pexpect
 python-pip
 python-pluggy
 python-ply
+python-powerline
 python-prompt_toolkit
 python-psycopg2
 python-ptyprocess
