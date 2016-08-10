@@ -17,12 +17,14 @@ packer
 pixiewps
 python-bcdoc
 python-behave
+python-gspread
 python-guzzle-sphinx-theme
 python-natsort
 python-nmap
 python-parse_type
 python-pyqtgraph
 python-twython
+python2-gspread
 python2-natsort
 python2-nmap
 reaver-wps-fork-t6x
