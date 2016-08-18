@@ -488,7 +488,6 @@ libcryptui
 libcups
 libdaemon
 libdatrie
-libdbus
 libdbusmenu-qt4
 libdbusmenu-qt5
 libdca
