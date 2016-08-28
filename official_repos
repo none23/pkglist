@@ -281,8 +281,6 @@ ibus
 icu
 ijs
 ilmbase
-imagemagick
-imagemagick-doc
 imlib2
 inetutils
 inkscape
@@ -807,6 +805,7 @@ ocl-icd
 oniguruma
 openal
 openbsd-netcat
+opencl-headers
 opencore-amr
 opendesktop-fonts
 openexr
