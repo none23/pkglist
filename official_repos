@@ -934,6 +934,7 @@ pyorbit
 pyqt4-common
 pyrit
 python
+python-appdirs
 python-babel
 python-beaker
 python-cairo
@@ -1032,6 +1033,7 @@ python-xdg
 python-xlrd
 python-xlwt
 python2
+python2-appdirs
 python2-attrs
 python2-babel
 python2-backports
