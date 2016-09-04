@@ -48,11 +48,13 @@ beep
 binutils
 bison
 blas
+boost
 boost-libs
 bower
 bridge-utils
 btrfs-progs
 bzip2
+bzr
 c-ares
 ca-certificates
 ca-certificates-cacert
@@ -175,6 +177,7 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
+gdl
 geeqie
 gegl02
 geoclue2
