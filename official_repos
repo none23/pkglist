@@ -116,6 +116,8 @@ dmxproto
 dnssec-anchors
 docbook-xml
 docbook-xsl
+docker
+docker-compose
 dos2unix
 dosfstools
 dotconf
@@ -944,6 +946,7 @@ python
 python-appdirs
 python-babel
 python-beaker
+python-cached-property
 python-cairo
 python-capstone
 python-cffi
@@ -957,6 +960,9 @@ python-dbus
 python-dbus-common
 python-decorator
 python-django
+python-docker-py
+python-dockerpty
+python-docopt
 python-docutils
 python-ecdsa
 python-et-xmlfile
@@ -1028,6 +1034,7 @@ python-sphinx-alabaster-theme
 python-sphinx_rtd_theme
 python-stevedore
 python-terminado
+python-texttable
 python-tornado
 python-tox
 python-urllib3
@@ -1035,10 +1042,12 @@ python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
 python-wcwidth
+python-websocket-client
 python-wheel
 python-xdg
 python-xlrd
 python-xlwt
+python-yaml
 python2
 python2-appdirs
 python2-attrs
