@@ -3,7 +3,6 @@ aalib
 abs
 accountsservice
 acl
-acorn
 adwaita-icon-theme
 afpfs-ng
 aircrack-ng
@@ -130,7 +129,6 @@ elinks
 enca
 enchant
 enscript
-eslint
 ethtool
 exfat-utils
 exiv2
