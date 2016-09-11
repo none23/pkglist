@@ -78,6 +78,7 @@ chromium
 chrpath
 cifs-utils
 clang
+clipgrab
 clucene
 cmake
 colord
@@ -1438,6 +1439,7 @@ yasm
 yelp-tools
 yelp-xsl
 you-get
+youtube-dl
 zathura
 zathura-djvu
 zathura-pdf-mupdf
