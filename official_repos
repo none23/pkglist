@@ -83,7 +83,6 @@ clucene
 cmake
 colord
 colord-gtk
-composer
 compositeproto
 confuse
 coreutils
