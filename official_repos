@@ -846,6 +846,7 @@ patch
 pavucontrol
 pciutils
 pcre
+pcre2
 perf
 perl
 perl-b-hooks-endofscope
