@@ -48,6 +48,8 @@ beep
 binutils
 bison
 blas
+blender
+blosc
 boost
 boost-libs
 bower
@@ -629,6 +631,7 @@ libsodium
 libsoup
 libsoxr
 libspiro
+libspnav
 libsrtp
 libssh
 libssh2
@@ -728,6 +731,7 @@ lirc
 llvm-libs
 lm_sensors
 lockdev
+log4cplus
 logrotate
 lpsolve
 lshw
@@ -816,14 +820,20 @@ oniguruma
 openal
 openbsd-netcat
 opencl-headers
+opencollada
+opencolorio
 opencore-amr
 opendesktop-fonts
 openexr
+openimageio
 openjpeg
 openjpeg2
 openresolv
+openshadinglanguage
 openssh
 openssl
+opensubdiv
+openvdb
 optipng
 opus
 orbit2
@@ -937,6 +947,7 @@ progsreiserfs
 protobuf
 proxychains-ng
 psmisc
+ptex
 pth
 pygobject-devel
 pygobject2-devel
@@ -1453,5 +1464,6 @@ zsh-completions
 zsh-doc
 zsh-lovers
 zsh-syntax-highlighting
+zstd
 zvbi
 zziplib
