@@ -308,7 +308,6 @@ iputils
 ipython
 ipython2
 iso-codes
-itstool
 iw
 jack2
 jansson
@@ -1446,8 +1445,6 @@ xvidcore
 xz
 yajl
 yasm
-yelp-tools
-yelp-xsl
 you-get
 youtube-dl
 zathura
