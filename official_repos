@@ -1010,6 +1010,7 @@ python-parse
 python-path
 python-pbr
 python-pexpect
+python-pickleshare
 python-pip
 python-pluggy
 python-ply
@@ -1048,6 +1049,7 @@ python-terminado
 python-texttable
 python-tornado
 python-tox
+python-traitlets
 python-urllib3
 python-virtualenv
 python-virtualenv-clone
@@ -1101,6 +1103,7 @@ python2-packaging
 python2-path
 python2-pathlib
 python2-pexpect
+python2-pickleshare
 python2-pillow
 python2-pip
 python2-ply
@@ -1127,6 +1130,7 @@ python2-sphinx
 python2-sphinx-alabaster-theme
 python2-sphinx_rtd_theme
 python2-sqlalchemy
+python2-traitlets
 python2-twisted
 python2-urllib3
 python2-virtualenv
