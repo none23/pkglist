@@ -331,7 +331,9 @@ json-c
 json-glib
 jsoncpp
 jupyter
+jupyter-nbformat
 jupyter-notebook
+jupyter_console
 kaa-base
 kaa-imlib2
 karchive
@@ -868,6 +870,7 @@ perl-datetime-timezone
 perl-dist-checkconflicts
 perl-encode-locale
 perl-error
+perl-eval-closure
 perl-exporter-tiny
 perl-file-basedir
 perl-file-listing
@@ -894,6 +897,8 @@ perl-math-round
 perl-module-build
 perl-module-implementation
 perl-module-runtime
+perl-mro-compat
+perl-namespace-autoclean
 perl-namespace-clean
 perl-net-dbus
 perl-net-http
@@ -902,8 +907,12 @@ perl-package-stash
 perl-package-stash-xs
 perl-params-util
 perl-params-validate
+perl-params-validationcompiler
+perl-role-tiny
+perl-specio
 perl-sub-exporter
 perl-sub-exporter-progressive
+perl-sub-identify
 perl-sub-install
 perl-test-fatal
 perl-text-iconv
@@ -985,11 +994,14 @@ python-idna
 python-imagesize
 python-ipdb
 python-ipykernel
+python-ipywidgets
 python-isort
 python-jdcal
 python-jinja
 python-jmespath
 python-jsonschema
+python-jupyter_client
+python-jupyter_core
 python-lxml
 python-mako
 python-markupsafe
