@@ -764,6 +764,7 @@ media-player-info
 mediainfo
 mesa
 mesa-libgl
+metis
 mftrace
 mime-types
 minicom
@@ -961,7 +962,6 @@ pygobject2-devel
 pygtk
 pyorbit
 pyqt4-common
-pyrit
 python
 python-appdirs
 python-babel

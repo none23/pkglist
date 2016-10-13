@@ -12,7 +12,6 @@ jslint
 lain-git
 package-query
 packer
-pixiewps
 python-bcdoc
 python-behave
 python-gspread
@@ -25,7 +24,6 @@ python-twython
 python2-gspread
 python2-natsort
 python2-nmap
-reaver-wps-fork-t6x
 ruby-maruku
 ruby-sass
 ruby-yard
@@ -37,5 +35,4 @@ tor-browser-en
 ttf-mac-fonts
 ttf-oxygen
 virtualbox-ext-oracle
-wifite-git
 yaourt
