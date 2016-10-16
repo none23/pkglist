@@ -892,6 +892,8 @@ perl-json
 perl-libwww
 perl-list-allutils
 perl-list-moreutils
+perl-list-someutils
+perl-list-utilsby
 perl-lwp-mediatypes
 perl-lwp-protocol-https
 perl-math-round
@@ -910,6 +912,7 @@ perl-params-util
 perl-params-validate
 perl-params-validationcompiler
 perl-role-tiny
+perl-scalar-list-utils
 perl-specio
 perl-sub-exporter
 perl-sub-exporter-progressive
