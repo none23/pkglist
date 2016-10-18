@@ -587,7 +587,9 @@ libmtp
 libmwaw
 libmythes
 libndp
+libnetfilter_queue
 libnewt
+libnfnetlink
 libnftnl
 libnl
 libnm-glib
