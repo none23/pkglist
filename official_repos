@@ -863,6 +863,7 @@ pcre2
 perf
 perl
 perl-b-hooks-endofscope
+perl-class-data-inheritable
 perl-class-load
 perl-class-singleton
 perl-data-optlist
@@ -870,10 +871,12 @@ perl-datetime
 perl-datetime-format-w3cdtf
 perl-datetime-locale
 perl-datetime-timezone
+perl-devel-stacktrace
 perl-dist-checkconflicts
 perl-encode-locale
 perl-error
 perl-eval-closure
+perl-exception-class
 perl-exporter-tiny
 perl-file-basedir
 perl-file-listing
