@@ -401,7 +401,7 @@ lib32-acl
 lib32-alsa-lib
 lib32-attr
 lib32-bzip2
-lib32-elfutils
+lib32-dbus
 lib32-expat
 lib32-flac
 lib32-fontconfig
@@ -416,9 +416,9 @@ lib32-lcms2
 lib32-libao
 lib32-libasyncns
 lib32-libcap
-lib32-libdbus
 lib32-libdbusmenu-qt
 lib32-libdrm
+lib32-libelf
 lib32-libffi
 lib32-libgcrypt
 lib32-libgpg-error
@@ -989,6 +989,7 @@ python-dbus-common
 python-decorator
 python-django
 python-docker-py
+python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
