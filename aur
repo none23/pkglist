@@ -4,7 +4,6 @@ awoken-icons
 binwalk-git
 firefox-beta-bin
 gegl-git
-geoclue
 google-chrome-dev
 gtk-theme-config
 lain-git
@@ -24,6 +23,5 @@ shallot-git
 strigi
 systemd-readahead
 tor-browser-en
-ttf-oxygen
 virtualbox-ext-oracle
 yaourt
