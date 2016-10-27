@@ -1,8 +1,5 @@
-android-apktool
-android-sdk-build-tools
 appmenu-qt
 atom-editor-git
-awesome-themes-git
 awoken-icons
 binwalk-git
 firefox-beta-bin
@@ -10,7 +7,6 @@ gegl-git
 geoclue
 google-chrome-dev
 gtk-theme-config
-jslint
 lain-git
 package-query
 packer
@@ -26,15 +22,10 @@ python-twython
 python2-gspread
 python2-natsort
 python2-nmap
-ruby-maruku
-ruby-sass
-ruby-yard
 shallot-git
-shantz-xwinwrap-bzr
 strigi
 systemd-readahead
 tor-browser-en
-ttf-mac-fonts
 ttf-oxygen
 virtualbox-ext-oracle
 yaourt
