@@ -85,6 +85,7 @@ cmake
 colord
 colord-gtk
 compositeproto
+compton
 confuse
 coreutils
 cowpatty
@@ -1379,7 +1380,6 @@ xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
 xclip
-xcompmgr
 xdg-utils
 xerces-c
 xextproto
