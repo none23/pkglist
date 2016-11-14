@@ -21,6 +21,7 @@ arandr
 arch-install-scripts
 archiso
 archlinux-keyring
+arpack
 asciidoc
 aspell
 at-spi2-atk
@@ -200,12 +201,14 @@ gimp
 girara
 git
 gksu
+gl2ps
 glew
 glib-networking
 glib-perl
 glib2
 glibc
 glibmm
+glpk
 glproto
 glu
 gmp
@@ -228,6 +231,7 @@ gpgmepp
 gpm
 gptfdisk
 graphene
+graphicsmagick
 graphite
 graphviz
 grep
@@ -283,6 +287,7 @@ httrack
 hub
 hunspell
 hwids
+hwloc
 hydra
 hyphen
 i3-wm
@@ -399,7 +404,6 @@ lcms2
 ldb
 ldns
 less
-lesstif
 lib32-acl
 lib32-alsa-lib
 lib32-attr
@@ -708,7 +712,6 @@ libxklavier
 libxml++
 libxml2
 libxmu
-libxp
 libxpm
 libxrandr
 libxrender
@@ -821,6 +824,7 @@ ntp
 numactl
 ocaml
 ocl-icd
+octave
 oniguruma
 openal
 openbsd-netcat
@@ -833,6 +837,7 @@ openexr
 openimageio
 openjpeg
 openjpeg2
+openmpi
 openresolv
 openshadinglanguage
 openssh
@@ -957,7 +962,6 @@ powerline
 powerline-common
 ppp
 presentproto
-printproto
 procinfo-ng
 procps-ng
 profont
@@ -1157,6 +1161,7 @@ python2-wcwidth
 python2-xdg
 python2-zope-interface
 qca-qt4
+qhull
 qpdf
 qscintilla-qt4
 qt4
@@ -1399,7 +1404,6 @@ xfconf
 xfsprogs
 xineramaproto
 xkeyboard-config
-xlockmore
 xorg-appres
 xorg-bdftopcf
 xorg-font-util
