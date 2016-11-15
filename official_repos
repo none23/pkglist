@@ -1233,6 +1233,7 @@ semver
 serf
 shadow
 shared-mime-info
+shellcheck
 sip
 sk1
 sk1libs
