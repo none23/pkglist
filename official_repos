@@ -341,6 +341,7 @@ jsoncpp
 jupyter
 jupyter-nbformat
 jupyter-notebook
+jupyter-widgetsnbextension
 jupyter_console
 kaa-base
 kaa-imlib2
