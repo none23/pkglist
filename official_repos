@@ -1035,7 +1035,6 @@ python-openpyxl
 python-packaging
 python-paramiko
 python-parse
-python-path
 python-pbr
 python-pexpect
 python-pickleshare
@@ -1129,7 +1128,6 @@ python2-numpy
 python2-opengl
 python2-openpyxl
 python2-packaging
-python2-path
 python2-pathlib
 python2-pexpect
 python2-pickleshare
