@@ -14,11 +14,9 @@ python-guzzle-sphinx-theme
 python-natsort
 python-nmap
 python-parse_type
-python-path
 python-pyqtgraph
 python2-natsort
 python2-nmap
-python2-path
 shallot-git
 strigi
 systemd-readahead
