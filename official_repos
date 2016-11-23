@@ -73,6 +73,7 @@ capstone
 cblas
 cdrdao
 celt
+celt0.5.1
 cgroup_event_listener
 chromaprint
 chromium
@@ -168,6 +169,7 @@ fonteditfs
 fontsproto
 fortune-mod
 freeglut
+freerdp
 freetype2
 fribidi
 ftgl
@@ -470,6 +472,7 @@ libbluray
 libbsd
 libburn
 libcaca
+libcacard
 libcanberra
 libcanberra-pulse
 libcap
@@ -1191,6 +1194,8 @@ sox
 speech-dispatcher
 speex
 speexdsp
+spice-glib
+spice-gtk3
 sqlite
 sqlitebrowser
 sqliteman
@@ -1222,6 +1227,7 @@ tar
 tcl
 tcpdump
 tdb
+telepathy-glib
 testdisk
 tevent
 texinfo
@@ -1272,6 +1278,7 @@ unzip
 upower
 usbip
 usbmuxd
+usbredir
 usbutils
 util-linux
 v4l-utils
@@ -1281,6 +1288,7 @@ vicious
 vid.stab
 videoproto
 vile
+vinagre
 virtualbox
 virtualbox-host-modules-arch
 vlc
