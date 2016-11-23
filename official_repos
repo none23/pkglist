@@ -210,7 +210,9 @@ glu
 gmp
 gnome-icon-theme-symbolic
 gnome-keyring
+gnome-mime-data
 gnome-themes-standard
+gnome-vfs
 gnupg
 gnuplot
 gnutls
@@ -463,6 +465,7 @@ libabw
 libaio
 libao
 libarchive
+libart-lgpl
 libass
 libassuan
 libasyncns
@@ -470,6 +473,8 @@ libatasmart
 libatomic_ops
 libavc1394
 libbluray
+libbonobo
+libbonoboui
 libbsd
 libburn
 libcaca
@@ -524,7 +529,11 @@ libgdiplus
 libgksu
 libglade
 libgme
+libgnome
+libgnome-data
 libgnome-keyring
+libgnomecanvas
+libgnomeui
 libgpg-error
 libgsf
 libgtop
@@ -534,6 +543,7 @@ libhubbub
 libibus
 libice
 libid3tag
+libidl2
 libidn
 libiec61883
 libimobiledevice
@@ -596,7 +606,6 @@ libproxy
 libpulse
 libpwquality
 libqzeitgeist
-libraw
 libraw1394
 libreoffice-still
 librevenge
@@ -817,6 +826,7 @@ opensubdiv
 openvdb
 optipng
 opus
+orbit2
 orc
 os-prober
 oxygen-icons
@@ -1121,11 +1131,11 @@ qt5-declarative
 qt5-graphicaleffects
 qt5-location
 qt5-multimedia
+qt5-quickcontrols
 qt5-script
 qt5-sensors
 qt5-svg
 qt5-tools
-qt5-wayland
 qt5-webchannel
 qt5-webkit
 qt5-x11extras
