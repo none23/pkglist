@@ -39,7 +39,6 @@ autoconf
 automake
 autossh
 avahi
-awesome
 babl
 baobab
 bash
@@ -72,13 +71,11 @@ cantarell-fonts
 caps
 capstone
 cblas
-cdparanoia
 cdrdao
 celt
 cgroup_event_listener
 chromaprint
 chromium
-chrpath
 cifs-utils
 clang
 clipgrab
@@ -185,7 +182,6 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
-gdl
 geeqie
 gegl02
 geoclue2
@@ -212,20 +208,15 @@ glu
 gmp
 gnome-icon-theme-symbolic
 gnome-keyring
-gnome-mime-data
-gnome-python
 gnome-themes-standard
-gnome-vfs
 gnupg
 gnuplot
 gnutls
-gobject-introspection
 gobject-introspection-runtime
 gpart
 gparted
 gperf
 gpgme
-gpgmepp
 gpm
 gptfdisk
 graphene
@@ -243,7 +234,6 @@ gsm
 gssproxy
 gst-libav
 gst-plugins-bad
-gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
@@ -305,7 +295,6 @@ inotify-tools
 inputproto
 intel-tbb
 intel-ucode
-intltool
 iperf3
 ipmitool
 iproute2
@@ -362,9 +351,7 @@ kdeclarative
 kded
 kdelibs
 kdelibs4support
-kdesignerplugin
 kdesu
-kdewebkit
 kemoticons
 keychain
 keyutils
@@ -384,7 +371,6 @@ knotifyconfig
 konsole
 kpackage
 kparts
-kplotting
 kpmcore
 kpty
 krb5
@@ -474,7 +460,6 @@ libabw
 libaio
 libao
 libarchive
-libart-lgpl
 libass
 libassuan
 libasyncns
@@ -482,8 +467,6 @@ libatasmart
 libatomic_ops
 libavc1394
 libbluray
-libbonobo
-libbonoboui
 libbsd
 libburn
 libcaca
@@ -533,21 +516,14 @@ libfontenc
 libfreexl
 libfs
 libftdi
-libftdi-compat
 libgcrypt
 libgdiplus
-libgexiv2
 libgksu
 libglade
 libgme
-libgnome
-libgnome-data
 libgnome-keyring
-libgnomecanvas
-libgnomeui
 libgpg-error
 libgsf
-libgssglue
 libgtop
 libgudev
 libgusb
@@ -555,12 +531,10 @@ libhubbub
 libibus
 libice
 libid3tag
-libidl2
 libidn
 libiec61883
 libimobiledevice
 libinput
-libirman
 libisoburn
 libisofs
 libixion
@@ -623,7 +597,6 @@ libraw
 libraw1394
 libreoffice-still
 librevenge
-librpcsecgss
 librsvg
 libsamplerate
 libsasl
@@ -656,7 +629,6 @@ libtirpc
 libtool
 libtraceevent
 libtxc_dxtn
-libunique
 libunistring
 libunrar
 libunwind
@@ -671,7 +643,6 @@ libva
 libva-intel-driver
 libvdpau
 libvisio
-libvisual
 libvoikko
 libvorbis
 libvpx
@@ -693,7 +664,6 @@ libxcb
 libxcomposite
 libxcursor
 libxdamage
-libxdg-basedir
 libxdmcp
 libxext
 libxfce4ui
@@ -743,7 +713,6 @@ lpsolve
 lshw
 lsof
 lua
-lua-lgi
 lua-messagepack
 lua-socket
 lua51
@@ -808,7 +777,6 @@ networkmanager-qt
 nfs-utils
 nfsidmap
 nilfs-utils
-ninja
 nmap
 nodejs
 notification-daemon
@@ -826,7 +794,6 @@ octave
 oniguruma
 openal
 openbsd-netcat
-opencl-headers
 opencollada
 opencolorio
 opencore-amr
@@ -844,7 +811,6 @@ opensubdiv
 openvdb
 optipng
 opus
-orbit2
 orc
 os-prober
 oxygen-icons
@@ -898,7 +864,6 @@ perl-io-html
 perl-io-socket-ssl
 perl-io-tty
 perl-ipc-system-simple
-perl-json
 perl-libwww
 perl-list-allutils
 perl-list-moreutils
@@ -972,12 +937,10 @@ pth
 pygobject-devel
 pygobject2-devel
 pygtk
-pyorbit
 pyqt4-common
 python
 python-appdirs
 python-babel
-python-beaker
 python-cached-property
 python-cairo
 python-capstone
@@ -991,13 +954,11 @@ python-dateutil
 python-dbus
 python-dbus-common
 python-decorator
-python-django
 python-docker-py
 python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
-python-ecdsa
 python-et-xmlfile
 python-gnuplot
 python-gobject
@@ -1016,11 +977,9 @@ python-jsonschema
 python-jupyter_client
 python-jupyter_core
 python-lxml
-python-mako
 python-markupsafe
 python-mccabe
 python-mistune
-python-mock
 python-msgpack
 python-neovim
 python-nose
@@ -1031,12 +990,9 @@ python-opengl
 python-openpyxl
 python-packaging
 python-paramiko
-python-parse
-python-pbr
 python-pexpect
 python-pickleshare
 python-pip
-python-pluggy
 python-ply
 python-powerline
 python-prompt_toolkit
@@ -1071,7 +1027,6 @@ python-stevedore
 python-terminado
 python-texttable
 python-tornado
-python-tox
 python-traitlets
 python-urllib3
 python-virtualenv
@@ -1079,7 +1034,6 @@ python-virtualenv-clone
 python-virtualenvwrapper
 python-wcwidth
 python-websocket-client
-python-wheel
 python-xdg
 python-xlrd
 python-xlwt
@@ -1090,7 +1044,6 @@ python2-attrs
 python2-babel
 python2-backports
 python2-backports.shutil_get_terminal_size
-python2-bonobo
 python2-cairo
 python2-capstone
 python2-cffi
@@ -1103,9 +1056,6 @@ python2-decorator
 python2-docutils
 python2-enum34
 python2-et-xmlfile
-python2-gconf
-python2-gnomecanvas
-python2-gnomevfs
 python2-gnuplot
 python2-gobject
 python2-gobject2
@@ -1116,7 +1066,6 @@ python2-ipaddress
 python2-jdcal
 python2-jinja
 python2-lcms
-python2-libgnome
 python2-lxml
 python2-markupsafe
 python2-numpy
@@ -1164,16 +1113,10 @@ qt4
 qt5-base
 qt5-declarative
 qt5-graphicaleffects
-qt5-location
 qt5-multimedia
 qt5-script
-qt5-sensors
 qt5-svg
-qt5-tools
-qt5-translations
 qt5-wayland
-qt5-webchannel
-qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
 qt5ct
@@ -1197,7 +1140,6 @@ reiserfsprogs
 remmina
 renderproto
 resourceproto
-rest
 rfkill
 rkhunter
 rp-pppoe
@@ -1246,7 +1188,6 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 sox
-spandsp
 speech-dispatcher
 speex
 speexdsp
@@ -1353,11 +1294,9 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
-webkitgtk
 webkitgtk2
 wget
 which
-wildmidi
 wireless-regdb
 wireless_tools
 wireshark-cli
@@ -1443,7 +1382,6 @@ xorg-xkill
 xorg-xlsatoms
 xorg-xlsclients
 xorg-xlsfonts
-xorg-xmessage
 xorg-xmodmap
 xorg-xpr
 xorg-xprop
@@ -1464,7 +1402,6 @@ xterm
 xvidcore
 xz
 yajl
-yasm
 you-get
 youtube-dl
 zathura
