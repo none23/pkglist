@@ -1063,6 +1063,7 @@ python2-backports.shutil_get_terminal_size
 python2-cairo
 python2-capstone
 python2-cffi
+python2-chardet
 python2-click
 python2-constantly
 python2-crypto
@@ -1106,6 +1107,7 @@ python2-pyqt4
 python2-pytz
 python2-pyx
 python2-reportlab
+python2-requests
 python2-service-identity
 python2-setuptools
 python2-sip
@@ -1117,6 +1119,7 @@ python2-sphinx_rtd_theme
 python2-sqlalchemy
 python2-traitlets
 python2-twisted
+python2-urllib3
 python2-virtualenv
 python2-wcwidth
 python2-xdg
