@@ -603,6 +603,7 @@ libpipeline
 libplist
 libpng
 libproxy
+libpsl
 libpulse
 libpwquality
 libqzeitgeist
