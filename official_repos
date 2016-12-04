@@ -3,6 +3,7 @@ aalib
 abs
 accountsservice
 acl
+acorn
 adwaita-icon-theme
 afpfs-ng
 aircrack-ng
@@ -40,6 +41,7 @@ automake
 autossh
 avahi
 awesome
+babel-cli
 babl
 baobab
 bash
@@ -56,6 +58,7 @@ boost
 boost-libs
 bower
 bridge-utils
+browserify
 btrfs-progs
 bzip2
 bzr
