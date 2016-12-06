@@ -40,7 +40,6 @@ autoconf
 automake
 autossh
 avahi
-awesome
 babel-cli
 babl
 baobab
@@ -399,7 +398,6 @@ ldb
 ldns
 ldoc
 less
-lib32-acl
 lib32-alsa-lib
 lib32-attr
 lib32-bzip2
@@ -425,7 +423,6 @@ lib32-libffi
 lib32-libgcrypt
 lib32-libgpg-error
 lib32-libice
-lib32-libidn
 lib32-libjpeg-turbo
 lib32-libmng
 lib32-libogg
@@ -1400,6 +1397,7 @@ xorg-x11perf
 xorg-xauth
 xorg-xbacklight
 xorg-xcmsdb
+xorg-xconsole
 xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xdriinfo
