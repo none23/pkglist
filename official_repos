@@ -40,6 +40,7 @@ autoconf
 automake
 autossh
 avahi
+awesome
 babel-cli
 babl
 baobab
@@ -125,7 +126,6 @@ docker-compose
 dos2unix
 dosfstools
 dotconf
-doxygen
 dri2proto
 dri3proto
 dwb
@@ -396,7 +396,6 @@ lcms
 lcms2
 ldb
 ldns
-ldoc
 less
 lib32-alsa-lib
 lib32-attr
@@ -734,7 +733,6 @@ lua
 lua-filesystem
 lua-lgi
 lua-messagepack
-lua-penlight
 lua-socket
 lua51
 lua52
@@ -1173,6 +1171,7 @@ renderproto
 resourceproto
 rfkill
 rkhunter
+rlwrap
 rp-pppoe
 rpcbind
 rrdtool
@@ -1366,7 +1365,6 @@ xfconf
 xfsprogs
 xineramaproto
 xkeyboard-config
-xmlto
 xorg-appres
 xorg-bdftopcf
 xorg-font-util
