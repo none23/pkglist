@@ -1336,6 +1336,7 @@ wireshark-qt
 wpa_actiond
 wpa_supplicant
 wxgtk
+wxpython
 x11-ssh-askpass
 x265
 x86_energy_perf_policy
