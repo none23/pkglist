@@ -157,8 +157,7 @@ file-roller
 filesystem
 filezilla
 findutils
-firefox-adblock-plus
-firejail
+firefox
 fixesproto
 flac
 flake8
@@ -183,6 +182,7 @@ gc
 gcc
 gcc-libs
 gconf
+gconfmm
 gcr
 gd
 gdbm
@@ -216,6 +216,7 @@ gnome-keyring
 gnome-mime-data
 gnome-themes-standard
 gnome-vfs
+gnome-vfsmm
 gnupg
 gnuplot
 gnutls
@@ -365,6 +366,7 @@ keychain
 keyutils
 kglobalaccel
 kguiaddons
+khtml
 ki18n
 kiconthemes
 kinit
@@ -372,6 +374,7 @@ kio
 kitemmodels
 kitemviews
 kjobwidgets
+kjs
 kmod
 knewstuff
 knotifications
@@ -530,12 +533,16 @@ libgcrypt
 libgdiplus
 libgksu
 libglade
+libglademm
 libgme
 libgnome
 libgnome-data
 libgnome-keyring
 libgnomecanvas
+libgnomecanvasmm
+libgnomemm
 libgnomeui
+libgnomeuimm
 libgpg-error
 libgsf
 libgtop
@@ -1244,6 +1251,7 @@ sysfsutils
 sysstat
 systemd
 systemd-sysvcompat
+systemsettings
 t1lib
 t1utils
 taglib
