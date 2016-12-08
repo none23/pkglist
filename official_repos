@@ -1151,6 +1151,7 @@ qt5-script
 qt5-sensors
 qt5-svg
 qt5-tools
+qt5-wayland
 qt5-webchannel
 qt5-webkit
 qt5-x11extras
