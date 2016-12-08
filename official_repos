@@ -765,7 +765,9 @@ mdadm
 media-player-info
 mediainfo
 mesa
+mesa-demos
 mesa-libgl
+mesa-vdpau
 metis
 mftrace
 mime-types
