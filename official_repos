@@ -40,7 +40,6 @@ autoconf
 automake
 autossh
 avahi
-awesome
 babel-cli
 babl
 baobab
@@ -126,6 +125,7 @@ docker-compose
 dos2unix
 dosfstools
 dotconf
+doxygen
 dri2proto
 dri3proto
 dwb
@@ -400,6 +400,7 @@ lcms
 lcms2
 ldb
 ldns
+ldoc
 less
 lib32-alsa-lib
 lib32-attr
@@ -741,6 +742,7 @@ lua
 lua-filesystem
 lua-lgi
 lua-messagepack
+lua-penlight
 lua-socket
 lua51
 lua52
@@ -1143,6 +1145,7 @@ qca-qt4
 qhull
 qpdf
 qscintilla-qt4
+qscintilla-qt5
 qt4
 qt5-base
 qt5-declarative
@@ -1402,6 +1405,7 @@ xfconf
 xfsprogs
 xineramaproto
 xkeyboard-config
+xmlto
 xorg-appres
 xorg-bdftopcf
 xorg-font-util
