@@ -125,7 +125,6 @@ docker
 docker-compose
 dos2unix
 dosfstools
-dotconf
 doxygen
 dri2proto
 dri3proto
@@ -1068,7 +1067,6 @@ python-virtualenv-clone
 python-virtualenvwrapper
 python-wcwidth
 python-websocket-client
-python-xdg
 python-xlrd
 python-xlwt
 python-yaml
@@ -1233,7 +1231,6 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 sox
-speech-dispatcher
 speex
 speexdsp
 sqlite
