@@ -129,6 +129,8 @@ dri2proto
 dri3proto
 dwb
 e2fsprogs
+efibootmgr
+efivar
 electron
 elfutils
 elinks
@@ -286,6 +288,7 @@ httrack
 hub
 hunspell
 hwids
+hwinfo
 hwloc
 hydra
 hyphen
@@ -685,6 +688,7 @@ libwps
 libx11
 libx264
 libx86
+libx86emu
 libxau
 libxaw
 libxcb
