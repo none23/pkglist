@@ -169,6 +169,7 @@ fluidsynth
 font-bh-ttf
 fontconfig
 fonteditfs
+fontforge
 fontsproto
 fortune-mod
 freeglut
@@ -653,6 +654,7 @@ libtirpc
 libtool
 libtraceevent
 libtxc_dxtn
+libunicodenames
 libunistring
 libunrar
 libunwind
@@ -703,6 +705,7 @@ libxinerama
 libxkbcommon
 libxkbcommon-x11
 libxkbfile
+libxkbui
 libxklavier
 libxml++
 libxml2
@@ -813,6 +816,8 @@ nilfs-utils
 nmap
 nodejs
 notification-daemon
+noto-fonts
+noto-fonts-emoji
 npm
 npth
 nspr
