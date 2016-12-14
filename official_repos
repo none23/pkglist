@@ -260,6 +260,7 @@ gtk-vnc
 gtk2
 gtk2-perl
 gtk3
+gtkglext
 gtkmm
 gtkmm3
 gtksourceview2
@@ -856,6 +857,7 @@ opus
 orbit2
 orc
 os-prober
+oxygen-gtk2
 oxygen-icons
 p11-kit
 p7zip
@@ -866,6 +868,7 @@ pambase
 pango
 pango-perl
 pangomm
+pangox-compat
 partclone
 parted
 partitionmanager
@@ -1350,6 +1353,7 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
+webkitgtk
 webkitgtk2
 wget
 which
@@ -1362,6 +1366,7 @@ wireshark-qt
 wpa_actiond
 wpa_supplicant
 wxgtk
+wxgtk2.8
 wxpython
 x11-ssh-askpass
 x265

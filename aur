@@ -1,8 +1,5 @@
-915resolution
-appmenu-qt
 awoken-icons
 binwalk-git
-gtk-theme-config
 luacheck
 package-query
 packer
@@ -11,7 +8,6 @@ python-gspread
 python-guzzle-sphinx-theme
 python-natsort
 python-nmap
-python-pyqtgraph
 python2-gspread
 python2-natsort
 python2-nmap
