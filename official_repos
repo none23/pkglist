@@ -57,6 +57,7 @@ blosc
 boost
 boost-libs
 bower
+breeze-icons
 bridge-utils
 browserify
 btrfs-progs
@@ -215,6 +216,8 @@ glpk
 glproto
 glu
 gmp
+gnome-icon-theme
+gnome-icon-theme-extras
 gnome-icon-theme-symbolic
 gnome-keyring
 gnome-mime-data
@@ -298,6 +301,7 @@ i3lock
 i3status
 iana-etc
 ibus
+icon-naming-utils
 icu
 ijs
 ilmbase
@@ -860,6 +864,7 @@ orc
 os-prober
 oxygen-gtk2
 oxygen-icons
+oxygen-icons-svg
 p11-kit
 p7zip
 pacman
@@ -897,7 +902,9 @@ perl-eval-closure
 perl-exception-class
 perl-exporter-tiny
 perl-file-basedir
+perl-file-desktopentry
 perl-file-listing
+perl-file-mimeinfo
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -946,7 +953,12 @@ perl-try-tiny
 perl-uri
 perl-variable-magic
 perl-www-robotrules
+perl-xml-namespacesupport
 perl-xml-parser
+perl-xml-sax
+perl-xml-sax-base
+perl-xml-sax-expat
+perl-xml-simple
 perl-xml-twig
 phonon-qt4
 phonon-qt4-vlc
