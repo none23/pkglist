@@ -510,7 +510,6 @@ libconfig
 libcroco
 libcryptui
 libcups
-libcurl-compat
 libdaemon
 libdatrie
 libdbusmenu-qt4
