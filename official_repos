@@ -22,6 +22,7 @@ arandr
 arch-install-scripts
 archiso
 archlinux-keyring
+arj
 arpack
 asciidoc
 aspell
@@ -50,6 +51,7 @@ bc
 bdf-unifont
 beep
 binutils
+binwalk
 bison
 blas
 blender
@@ -94,6 +96,7 @@ compton
 confuse
 coreutils
 cowpatty
+cpio
 cpupower
 cracklib
 crda
@@ -572,7 +575,6 @@ libisoburn
 libisofs
 libixion
 libjpeg-turbo
-libkactivities4
 libkate
 libksba
 liblangtag
