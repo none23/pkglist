@@ -138,6 +138,7 @@ efivar
 electron
 elfutils
 elinks
+embree
 enca
 enchant
 enscript
@@ -179,6 +180,7 @@ fontforge
 fontsproto
 fortune-mod
 freeglut
+freeimage
 freetype2
 fribidi
 ftgl
@@ -763,6 +765,9 @@ lua51
 lua52
 lua52-messagepack
 luajit
+luxblend25
+luxrays
+luxrender
 lv2
 lvm2
 lxappearance
