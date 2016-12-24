@@ -848,6 +848,8 @@ octave
 oniguruma
 openal
 openbsd-netcat
+opencl-headers
+opencl-mesa
 opencollada
 opencolorio
 opencore-amr
@@ -1001,6 +1003,7 @@ proxychains-ng
 psmisc
 ptex
 pth
+pycuda-headers
 pygobject-devel
 pygobject2-devel
 pygtk
@@ -1414,6 +1417,7 @@ xf86-input-void
 xf86-video-dummy
 xf86-video-fbdev
 xf86-video-intel
+xf86-video-nouveau
 xf86-video-vmware
 xf86dgaproto
 xf86driproto
