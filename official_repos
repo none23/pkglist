@@ -550,6 +550,7 @@ libgdiplus
 libgksu
 libglade
 libglademm
+libglvnd
 libgme
 libgnome
 libgnome-data
@@ -724,6 +725,7 @@ libxklavier
 libxml++
 libxml2
 libxmu
+libxnvctrl
 libxp
 libxpm
 libxrandr
@@ -843,6 +845,9 @@ ntfs-3g
 ntop
 ntp
 numactl
+nvidia
+nvidia-settings
+nvidia-utils
 ocaml
 ocl-icd
 octave
@@ -851,6 +856,7 @@ openal
 openbsd-netcat
 opencl-headers
 opencl-mesa
+opencl-nvidia
 opencollada
 opencolorio
 opencore-amr
@@ -1415,11 +1421,9 @@ xf86-input-mouse
 xf86-input-synaptics
 xf86-input-vmmouse
 xf86-input-void
-xf86-video-dummy
 xf86-video-fbdev
 xf86-video-intel
 xf86-video-nouveau
-xf86-video-vmware
 xf86dgaproto
 xf86driproto
 xf86vidmodeproto
