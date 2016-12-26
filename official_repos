@@ -725,7 +725,6 @@ libxklavier
 libxml++
 libxml2
 libxmu
-libxnvctrl
 libxp
 libxpm
 libxrandr
@@ -845,8 +844,6 @@ ntfs-3g
 ntop
 ntp
 numactl
-nvidia
-nvidia-settings
 nvidia-utils
 ocaml
 ocl-icd
@@ -856,7 +853,6 @@ openal
 openbsd-netcat
 opencl-headers
 opencl-mesa
-opencl-nvidia
 opencollada
 opencolorio
 opencore-amr
