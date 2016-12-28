@@ -1208,6 +1208,7 @@ qt5-svg
 qt5-tools
 qt5-wayland
 qt5-webchannel
+qt5-webengine
 qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
