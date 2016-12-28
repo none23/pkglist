@@ -1,6 +1,6 @@
 libkactivities4
 luacheck
-nerd-fonts-complete
+nerd-fonts-git
 package-query
 packer
 python-bcdoc
