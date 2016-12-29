@@ -760,7 +760,6 @@ lockdev
 log4cplus
 logrotate
 lpsolve
-lshw
 lsof
 lua
 lua-filesystem
