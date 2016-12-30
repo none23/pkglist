@@ -211,6 +211,11 @@ ghostscript
 giblib
 giflib
 gimp
+gimp-dbp
+gimp-plugin-lqr
+gimp-plugin-mathmap
+gimp-plugin-wavelet-denoise
+gimp-refocus
 girara
 git
 gksu
