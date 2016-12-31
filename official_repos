@@ -140,7 +140,6 @@ efivar
 electron
 elfutils
 elinks
-embree
 enca
 enchant
 enscript
@@ -183,7 +182,6 @@ fontforge
 fontsproto
 fortune-mod
 freeglut
-freeimage
 freetype2
 fribidi
 ftgl
@@ -419,6 +417,7 @@ kxmlgui
 ladspa
 lame
 lapack
+lasem
 lcms
 lcms2
 ldb
@@ -662,6 +661,7 @@ libspnav
 libsrtp
 libssh
 libssh2
+libsvgtiny
 libsynctex
 libsystemd
 libtar
@@ -775,9 +775,6 @@ lua51
 lua52
 lua52-messagepack
 luajit
-luxblend25
-luxrays
-luxrender
 lv2
 lvm2
 lxappearance
@@ -889,6 +886,7 @@ oxygen-icons
 oxygen-icons-svg
 p11-kit
 p7zip
+pacgraph
 pacman
 pacman-mirrorlist
 pam
@@ -905,6 +903,7 @@ pavucontrol
 pciutils
 pcre
 pcre2
+pdf2svg
 perf
 perl
 perl-b-hooks-endofscope
