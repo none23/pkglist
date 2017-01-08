@@ -1153,6 +1153,7 @@ python2-lcms
 python2-lxml
 python2-markupsafe
 python2-numpy
+python2-olefile
 python2-opengl
 python2-openpyxl
 python2-packaging
