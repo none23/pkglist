@@ -1344,6 +1344,7 @@ tre
 tslib
 ttf-arphic-ukai
 ttf-bitstream-vera
+ttf-cheapskate
 ttf-croscore
 ttf-dejavu
 ttf-droid
@@ -1355,6 +1356,9 @@ ttf-ionicons
 ttf-liberation
 ttf-linux-libertine
 ttf-linux-libertine-g
+ttf-overpass
+ttf-roboto
+ttf-symbola
 ttf-ubuntu-font-family
 tumbler
 turbostat
