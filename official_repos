@@ -1037,7 +1037,7 @@ python-dateutil
 python-dbus
 python-dbus-common
 python-decorator
-python-docker-py
+python-docker
 python-docker-pycreds
 python-dockerpty
 python-docopt
