@@ -354,7 +354,6 @@ js
 js17
 js185
 jshon
-json-c
 json-glib
 jsoncpp
 jupyter
@@ -437,8 +436,6 @@ lib32-gcc-libs
 lib32-glib2
 lib32-glibc
 lib32-harfbuzz
-lib32-icu
-lib32-json-c
 lib32-lcms2
 lib32-libao
 lib32-libasyncns
@@ -1398,7 +1395,6 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
-webkitgtk
 webkitgtk2
 wget
 which
