@@ -235,7 +235,6 @@ gnome-keyring
 gnome-mime-data
 gnome-themes-standard
 gnome-vfs
-gnome-vfsmm
 gnupg
 gnuplot
 gnutls
@@ -561,9 +560,7 @@ libgnome-data
 libgnome-keyring
 libgnomecanvas
 libgnomecanvasmm
-libgnomemm
 libgnomeui
-libgnomeuimm
 libgpg-error
 libgsf
 libgtop
