@@ -264,8 +264,6 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
-gstreamer0.10
-gstreamer0.10-base
 gtk-engine-murrine
 gtk-engines
 gtk-theme-switch2
@@ -559,7 +557,6 @@ libgnome
 libgnome-data
 libgnome-keyring
 libgnomecanvas
-libgnomecanvasmm
 libgnomeui
 libgpg-error
 libgsf

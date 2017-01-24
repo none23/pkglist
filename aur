@@ -1,5 +1,6 @@
 awesome-git
 gnome-vfsmm
+libgnomecanvasmm
 libgnomemm
 libgnomeuimm
 libkactivities4
@@ -18,5 +19,4 @@ qt5-styleplugins
 shallot-git
 systemd-readahead
 tor-browser-en
-wxgtk2.8
 yaourt
