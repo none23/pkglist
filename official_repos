@@ -234,7 +234,6 @@ gnome-icon-theme-symbolic
 gnome-keyring
 gnome-mime-data
 gnome-themes-standard
-gnome-vfs
 gnupg
 gnuplot
 gnutls
@@ -495,8 +494,6 @@ libatasmart
 libatomic_ops
 libavc1394
 libbluray
-libbonobo
-libbonoboui
 libbsd
 libburn
 libcaca
@@ -553,11 +550,8 @@ libglade
 libglademm
 libglvnd
 libgme
-libgnome
-libgnome-data
 libgnome-keyring
 libgnomecanvas
-libgnomeui
 libgpg-error
 libgsf
 libgtop
@@ -869,7 +863,6 @@ opensubdiv
 openvdb
 optipng
 opus
-orbit2
 orc
 os-prober
 otf-fira-mono

@@ -1,10 +1,17 @@
 awesome-git
+gnome-vfs
 gnome-vfsmm
+libbonobo
+libbonoboui
+libgnome
+libgnome-data
 libgnomecanvasmm
 libgnomemm
+libgnomeui
 libgnomeuimm
 libkactivities4
 luacheck
+orbit2
 package-query
 packer
 python-bcdoc
