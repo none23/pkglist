@@ -1363,8 +1363,6 @@ usbmuxd
 usbutils
 util-linux
 v4l-utils
-vagrant
-vagrant-substrate
 vde2
 vi
 vicious
