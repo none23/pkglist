@@ -22,7 +22,7 @@ python-nmap
 python2-gspread
 python2-natsort
 python2-nmap
-qt5-styleplugins
+qt5-styleplugins-git
 shallot-git
 systemd-readahead
 tor-browser-en
