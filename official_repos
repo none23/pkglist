@@ -57,6 +57,7 @@ bison
 blas
 blender
 blosc
+bluez-libs
 boost
 boost-libs
 bower
@@ -131,6 +132,7 @@ docker
 docker-compose
 dos2unix
 dosfstools
+dotconf
 dri2proto
 dri3proto
 dwb
@@ -600,6 +602,7 @@ libnewt
 libnfnetlink
 libnftnl
 libnl
+libnm
 libnm-glib
 libnotify
 liboauth
@@ -1103,6 +1106,7 @@ python-virtualenv-clone
 python-virtualenvwrapper
 python-wcwidth
 python-websocket-client
+python-xdg
 python-xlrd
 python-xlwt
 python-yaml
@@ -1192,6 +1196,7 @@ qt5-quickcontrols
 qt5-quickcontrols2
 qt5-script
 qt5-sensors
+qt5-speech
 qt5-svg
 qt5-tools
 qt5-wayland
@@ -1271,6 +1276,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 sox
+speech-dispatcher
 speex
 speexdsp
 sqlite
