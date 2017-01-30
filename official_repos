@@ -193,6 +193,7 @@ gamin
 gawk
 gc
 gcc
+gcc-fortran
 gcc-libs
 gcc5
 gconf
