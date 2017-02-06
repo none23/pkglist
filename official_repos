@@ -161,6 +161,7 @@ feh
 ffmpeg
 ffmpeg2.8
 fftw
+fig2dev
 fil-plugins
 file
 file-roller
@@ -202,6 +203,8 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
+gdl
+gdome2
 geeqie
 gegl02
 geoclue2
@@ -230,6 +233,7 @@ glibmm
 glpk
 glproto
 glu
+gmetadom
 gmp
 gnome-icon-theme
 gnome-icon-theme-extras
@@ -275,11 +279,11 @@ gtk2
 gtk2-perl
 gtk3
 gtkglext
+gtkmathview
 gtkmm
 gtkmm3
 gtksourceview2
 gtksourceview3
-gtkspell
 gts
 guile
 gutenprint
@@ -320,11 +324,11 @@ imagemagick
 imagemagick-doc
 imlib2
 inetutils
-inkscape
 inotify-tools
 inputproto
 intel-tbb
 intel-ucode
+intltool
 iperf3
 ipmitool
 iproute2
@@ -977,6 +981,7 @@ phonon-qt5-vlc
 pinentry
 pixman
 pkg-config
+plotutils
 polkit
 polkit-kde-agent
 polkit-qt4
@@ -1002,6 +1007,7 @@ progsreiserfs
 protobuf
 proxychains-ng
 psmisc
+pstoedit
 ptex
 pth
 pycuda-headers
@@ -1166,6 +1172,7 @@ python2-pytz
 python2-pyx
 python2-reportlab
 python2-requests
+python2-scour
 python2-service-identity
 python2-setuptools
 python2-sip
@@ -1333,6 +1340,7 @@ transmission-qt
 transset-df
 tre
 tslib
+ttf-anonymous-pro
 ttf-arphic-ukai
 ttf-bitstream-vera
 ttf-cheapskate
@@ -1342,6 +1350,7 @@ ttf-droid
 ttf-fira-mono
 ttf-fira-sans
 ttf-freefont
+ttf-hack
 ttf-inconsolata
 ttf-ionicons
 ttf-liberation
