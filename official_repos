@@ -103,7 +103,6 @@ cpupower
 cracklib
 crda
 cryptsetup
-cuda
 cups
 cups-filters
 curl
@@ -196,7 +195,6 @@ gc
 gcc
 gcc-fortran
 gcc-libs
-gcc5
 gconf
 gcr
 gd
@@ -444,6 +442,7 @@ lib32-libcap
 lib32-libdbusmenu-qt
 lib32-libdrm
 lib32-libelf
+lib32-libepoxy
 lib32-libffi
 lib32-libgcrypt
 lib32-libgpg-error
@@ -553,7 +552,6 @@ libgcrypt
 libgdiplus
 libgksu
 libglade
-libglvnd
 libgme
 libgnome-keyring
 libgnomecanvas
@@ -652,6 +650,7 @@ libspnav
 libsrtp
 libssh
 libssh2
+libstdc++5
 libsvgtiny
 libsynctex
 libsystemd
@@ -724,7 +723,6 @@ libxklavier
 libxml++
 libxml2
 libxmu
-libxnvctrl
 libxp
 libxpm
 libxrandr
@@ -787,6 +785,7 @@ media-player-info
 mediainfo
 mesa
 mesa-demos
+mesa-libgl
 mesa-vdpau
 metis
 mftrace
@@ -839,10 +838,6 @@ ntfs-3g
 ntop
 ntp
 numactl
-nvidia
-nvidia-libgl
-nvidia-settings
-nvidia-utils
 ocaml
 ocl-icd
 octave
@@ -851,7 +846,6 @@ openal
 openbsd-netcat
 opencl-headers
 opencl-mesa
-opencl-nvidia
 opencollada
 opencolorio
 opencore-amr
@@ -1009,7 +1003,6 @@ psmisc
 pstoedit
 ptex
 pth
-pycuda-headers
 pygobject-devel
 pygobject2-devel
 pygtk
@@ -1079,7 +1072,6 @@ python-pyasn1
 python-pyasn1-modules
 python-pycodestyle
 python-pycparser
-python-pycuda
 python-pyflakes
 python-pygments
 python-pyopenssl
@@ -1087,7 +1079,6 @@ python-pyparsing
 python-pyqt4
 python-pytest
 python-pytest-django
-python-pytools
 python-pytz
 python-pyx
 python-pyzmq
@@ -1435,6 +1426,7 @@ xf86-input-vmmouse
 xf86-input-void
 xf86-video-fbdev
 xf86-video-intel
+xf86-video-nouveau
 xf86dgaproto
 xf86driproto
 xf86vidmodeproto
