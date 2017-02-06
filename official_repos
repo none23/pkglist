@@ -200,7 +200,6 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
-gdl
 gdome2
 geeqie
 gegl02
@@ -326,7 +325,6 @@ inotify-tools
 inputproto
 intel-tbb
 intel-ucode
-intltool
 iperf3
 ipmitool
 iproute2
@@ -378,11 +376,8 @@ kdbusaddons
 kde-cli-tools
 kde-gtk-config
 kdeclarative
-kded
 kdelibs
-kdelibs4support
 kdesu
-kemoticons
 keychain
 keyutils
 kglobalaccel
@@ -392,7 +387,6 @@ ki18n
 kiconthemes
 kinit
 kio
-kitemmodels
 kitemviews
 kjobwidgets
 kjs
@@ -408,7 +402,6 @@ kpty
 krb5
 kservice
 ktextwidgets
-kunitconversion
 kwallet
 kwidgetsaddons
 kwindowsystem
