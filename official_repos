@@ -103,6 +103,7 @@ cpupower
 cracklib
 crda
 cryptsetup
+cuda
 cups
 cups-filters
 curl
@@ -195,11 +196,13 @@ gc
 gcc
 gcc-fortran
 gcc-libs
+gcc5
 gconf
 gcr
 gd
 gdbm
 gdk-pixbuf2
+gdl
 gdome2
 geeqie
 gegl02
@@ -325,6 +328,7 @@ inotify-tools
 inputproto
 intel-tbb
 intel-ucode
+intltool
 iperf3
 ipmitool
 iproute2
@@ -545,6 +549,7 @@ libgcrypt
 libgdiplus
 libgksu
 libglade
+libglvnd
 libgme
 libgnome-keyring
 libgnomecanvas
@@ -778,7 +783,6 @@ media-player-info
 mediainfo
 mesa
 mesa-demos
-mesa-libgl
 mesa-vdpau
 metis
 mftrace
@@ -831,6 +835,9 @@ ntfs-3g
 ntop
 ntp
 numactl
+nvidia
+nvidia-libgl
+nvidia-utils
 ocaml
 ocl-icd
 octave
@@ -839,6 +846,7 @@ openal
 openbsd-netcat
 opencl-headers
 opencl-mesa
+opencl-nvidia
 opencollada
 opencolorio
 opencore-amr
@@ -996,6 +1004,7 @@ psmisc
 pstoedit
 ptex
 pth
+pycuda-headers
 pygobject-devel
 pygobject2-devel
 pygtk
