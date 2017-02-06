@@ -284,6 +284,7 @@ gtkmm
 gtkmm3
 gtksourceview2
 gtksourceview3
+gtkspell
 gts
 guile
 gutenprint
@@ -324,6 +325,7 @@ imagemagick
 imagemagick-doc
 imlib2
 inetutils
+inkscape
 inotify-tools
 inputproto
 intel-tbb
