@@ -198,7 +198,6 @@ gcc-fortran
 gcc-libs
 gcc5
 gconf
-gconfmm
 gcr
 gd
 gdbm
@@ -246,7 +245,6 @@ gnuplot
 gnutls
 gobject-introspection-runtime
 gpart
-gparted
 gperf
 gpgme
 gpm
@@ -555,7 +553,6 @@ libgcrypt
 libgdiplus
 libgksu
 libglade
-libglademm
 libglvnd
 libgme
 libgnome-keyring
