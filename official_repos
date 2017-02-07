@@ -326,6 +326,7 @@ inotify-tools
 inputproto
 intel-tbb
 intel-ucode
+intltool
 iperf3
 ipmitool
 iproute2
