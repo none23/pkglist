@@ -88,7 +88,6 @@ chromaprint
 chromium
 cifs-utils
 clang
-clipgrab
 clucene
 cmake
 colord
@@ -1209,7 +1208,6 @@ qtcurve-gtk2
 qtcurve-qt4
 qtcurve-qt5
 qtcurve-utils
-qtwebkit
 r
 randrproto
 ranger
