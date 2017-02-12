@@ -435,7 +435,6 @@ lib32-lcms2
 lib32-libao
 lib32-libasyncns
 lib32-libcap
-lib32-libdbusmenu-qt
 lib32-libdrm
 lib32-libelf
 lib32-libepoxy
@@ -444,7 +443,6 @@ lib32-libgcrypt
 lib32-libgpg-error
 lib32-libice
 lib32-libjpeg-turbo
-lib32-libmng
 lib32-libogg
 lib32-libpciaccess
 lib32-libpng
@@ -475,7 +473,6 @@ lib32-mesa-libgl
 lib32-ncurses
 lib32-openssl
 lib32-pcre
-lib32-qt4
 lib32-readline
 lib32-sqlite
 lib32-systemd
