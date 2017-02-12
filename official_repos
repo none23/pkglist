@@ -200,7 +200,6 @@ gcr
 gd
 gdbm
 gdk-pixbuf2
-gdl
 gdome2
 geeqie
 gegl02
@@ -327,7 +326,6 @@ inotify-tools
 inputproto
 intel-tbb
 intel-ucode
-intltool
 iperf3
 ipmitool
 iproute2
@@ -565,7 +563,6 @@ libimobiledevice
 libinput
 libisoburn
 libisofs
-libixion
 libjpeg-turbo
 libkate
 libksba
@@ -606,7 +603,6 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
-liborcus
 libotf
 libpagemaker
 libpaper
