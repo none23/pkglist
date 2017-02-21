@@ -1278,6 +1278,7 @@ taglib
 talloc
 tar
 tcl
+tcltls
 tcpdump
 tdb
 terminus-font
@@ -1291,7 +1292,6 @@ thunar
 thunar-archive-plugin
 thunar-volman
 tk
-tls
 tmon
 tmux
 tor
