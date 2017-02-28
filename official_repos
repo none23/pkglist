@@ -807,7 +807,6 @@ ntop
 ntp
 numactl
 nvidia
-nvidia-libgl
 nvidia-utils
 ocaml
 ocl-icd
