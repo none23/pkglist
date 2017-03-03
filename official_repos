@@ -1151,6 +1151,7 @@ python2-virtualenv
 python2-wcwidth
 python2-xdg
 python2-zope-interface
+qbs
 qca-qt4
 qhull
 qpdf
