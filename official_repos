@@ -981,6 +981,7 @@ pygtk
 pyqt4-common
 python
 python-appdirs
+python-asn1crypto
 python-babel
 python-cached-property
 python-cairo
@@ -1081,6 +1082,7 @@ python-xlwt
 python-yaml
 python2
 python2-appdirs
+python2-asn1crypto
 python2-attrs
 python2-babel
 python2-backports
