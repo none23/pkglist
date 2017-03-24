@@ -7,6 +7,7 @@ libgnome-data
 libgnomeui
 libkactivities4
 luacheck
+mate-screensaver-hacks
 orbit2
 package-query
 packer
