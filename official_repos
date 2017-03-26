@@ -826,6 +826,7 @@ openresolv
 openshadinglanguage
 openssh
 openssl
+openssl-1.0
 opensubdiv
 openvdb
 optipng
