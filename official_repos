@@ -100,7 +100,6 @@ cpupower
 cracklib
 crda
 cryptsetup
-cuda
 cups
 cups-filters
 curl
@@ -191,7 +190,6 @@ gc
 gcc
 gcc-fortran
 gcc-libs
-gcc5
 gconf
 gcr
 gd
@@ -802,8 +800,6 @@ ntfs-3g
 ntop
 ntp
 numactl
-nvidia
-nvidia-utils
 ocaml
 ocl-icd
 octave
