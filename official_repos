@@ -586,6 +586,7 @@ libpgm
 libpipeline
 libplist
 libpng
+libpng12
 libproxy
 libpsl
 libpulse
