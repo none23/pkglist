@@ -877,6 +877,7 @@ perl-file-basedir
 perl-file-desktopentry
 perl-file-listing
 perl-file-mimeinfo
+perl-file-sharedir-install
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
