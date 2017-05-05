@@ -484,6 +484,7 @@ libdaemon
 libdatrie
 libdbusmenu-qt4
 libdbusmenu-qt5
+libdc1394
 libdca
 libdmx
 libdom
@@ -505,6 +506,7 @@ libewf
 libexif
 libexttextcat
 libfbclient
+libfdk-aac
 libffado
 libffi
 libfilezilla
@@ -567,6 +569,7 @@ libnetfilter_queue
 libnewt
 libnfnetlink
 libnftnl
+libnghttp2
 libnl
 libnm
 libnm-glib
@@ -859,6 +862,7 @@ perf
 perl
 perl-b-hooks-endofscope
 perl-class-data-inheritable
+perl-class-inspector
 perl-class-load
 perl-class-singleton
 perl-data-optlist
@@ -877,6 +881,7 @@ perl-file-basedir
 perl-file-desktopentry
 perl-file-listing
 perl-file-mimeinfo
+perl-file-sharedir
 perl-file-sharedir-install
 perl-html-parser
 perl-html-tagset
@@ -1244,6 +1249,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 sox
+spandsp
 speech-dispatcher
 speex
 speexdsp
@@ -1350,6 +1356,7 @@ vlc
 vte
 vte-common
 vte3
+vulkan-icd-loader
 vulscan
 w3m
 wavpack
@@ -1357,8 +1364,10 @@ wayland
 wayland-protocols
 webkit2gtk
 webkitgtk2
+webrtc-audio-processing
 wget
 which
+wildmidi
 wireless-regdb
 wireless_tools
 wireshark-cli
