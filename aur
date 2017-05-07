@@ -22,4 +22,6 @@ qt5-styleplugins-git
 shallot-git
 systemd-readahead
 tor-browser-en
+xorg-server-utils
+xorg-utils
 yaourt

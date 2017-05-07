@@ -1429,7 +1429,6 @@ xorg-mkfontscale
 xorg-server
 xorg-server-common
 xorg-server-devel
-xorg-server-utils
 xorg-server-xephyr
 xorg-server-xvfb
 xorg-server-xwayland
@@ -1437,7 +1436,6 @@ xorg-sessreg
 xorg-setxkbmap
 xorg-smproxy
 xorg-util-macros
-xorg-utils
 xorg-x11perf
 xorg-xauth
 xorg-xbacklight
