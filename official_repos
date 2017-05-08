@@ -162,7 +162,6 @@ file-roller
 filesystem
 filezilla
 findutils
-firefox
 firejail
 fixesproto
 flac
@@ -1480,6 +1479,7 @@ xterm
 xvidcore
 xz
 yajl
+yarn
 you-get
 youtube-dl
 zathura
