@@ -409,7 +409,6 @@ lcms
 lcms2
 ldb
 ldns
-ldoc
 less
 lesstif
 lib32-alsa-lib
@@ -725,7 +724,6 @@ lua
 lua-filesystem
 lua-lgi
 lua-messagepack
-lua-penlight
 lua-socket
 lua51
 lua52
@@ -987,7 +985,6 @@ python-cairo
 python-capstone
 python-cffi
 python-chardet
-python-click
 python-colorama
 python-crypto
 python-cryptography
@@ -1154,7 +1151,6 @@ python2-wcwidth
 python2-xdg
 python2-zope-interface
 qbs
-qca-qt4
 qhull
 qpdf
 qscintilla-qt4
@@ -1409,7 +1405,6 @@ xfconf
 xfsprogs
 xineramaproto
 xkeyboard-config
-xmlto
 xorg-appres
 xorg-bdftopcf
 xorg-font-util
@@ -1457,7 +1452,6 @@ xorg-xkill
 xorg-xlsatoms
 xorg-xlsclients
 xorg-xlsfonts
-xorg-xmessage
 xorg-xmodmap
 xorg-xpr
 xorg-xprop
