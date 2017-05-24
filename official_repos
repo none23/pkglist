@@ -1148,6 +1148,7 @@ python2-sphinxcontrib-websupport
 python2-sqlalchemy
 python2-traitlets
 python2-twisted
+python2-typing
 python2-urllib3
 python2-virtualenv
 python2-wcwidth
