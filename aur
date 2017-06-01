@@ -7,6 +7,7 @@ libgnome
 libgnome-data
 libgnomeui
 libkactivities4
+libqzeitgeist
 luacheck
 orbit2
 package-query
