@@ -128,6 +128,7 @@ docker-compose
 dos2unix
 dosfstools
 dotconf
+double-conversion
 dri2proto
 dri3proto
 e2fsprogs
@@ -176,6 +177,7 @@ fonteditfs
 fontforge
 fontsproto
 fortune-mod
+frameworkintegration
 freeglut
 freetype2
 fribidi
@@ -370,8 +372,11 @@ kdbusaddons
 kde-cli-tools
 kde-gtk-config
 kdeclarative
+kded
 kdelibs
+kdelibs4support
 kdesu
+kemoticons
 keychain
 keyutils
 kglobalaccel
@@ -381,6 +386,7 @@ ki18n
 kiconthemes
 kinit
 kio
+kitemmodels
 kitemviews
 kjobwidgets
 kjs
@@ -396,6 +402,7 @@ kpty
 krb5
 kservice
 ktextwidgets
+kunitconversion
 kwallet
 kwidgetsaddons
 kwindowsystem
