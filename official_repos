@@ -615,6 +615,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspeechd
 libspiro
 libspnav
 libsrtp
@@ -1382,7 +1383,8 @@ wireshark-gtk
 wireshark-qt
 wpa_actiond
 wpa_supplicant
-wxgtk
+wxgtk-common
+wxgtk2
 wxpython
 x11-ssh-askpass
 x265
