@@ -119,6 +119,7 @@ diffutils
 ding-libs
 djvulibre
 dkms
+dmraid
 dmxproto
 dnssec-anchors
 docbook-xml
@@ -466,9 +467,11 @@ libasyncns
 libatasmart
 libatomic_ops
 libavc1394
+libblockdev
 libbluray
 libbsd
 libburn
+libbytesize
 libcaca
 libcanberra
 libcanberra-pulse
@@ -1360,6 +1363,7 @@ videoproto
 vifm
 vile
 vlc
+volume_key
 vte
 vte-common
 vte3
