@@ -1040,6 +1040,7 @@ python-paramiko
 python-pexpect
 python-pickleshare
 python-pip
+python-pluggy
 python-ply
 python-powerline
 python-prompt_toolkit
