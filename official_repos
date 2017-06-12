@@ -989,6 +989,7 @@ python
 python-appdirs
 python-asn1crypto
 python-babel
+python-bcrypt
 python-cached-property
 python-cairo
 python-capstone
@@ -1053,6 +1054,7 @@ python-pycodestyle
 python-pycparser
 python-pyflakes
 python-pygments
+python-pynacl
 python-pyopenssl
 python-pyparsing
 python-pyqt4
