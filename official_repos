@@ -203,6 +203,7 @@ geoclue2
 geoip
 geoip-database
 gettext
+ghc
 ghostscript
 giblib
 giflib
@@ -287,6 +288,17 @@ gvfs-smb
 gzip
 harfbuzz
 harfbuzz-icu
+haskell-json
+haskell-mtl
+haskell-parsec
+haskell-primitive
+haskell-quickcheck
+haskell-random
+haskell-regex-base
+haskell-regex-tdfa
+haskell-syb
+haskell-text
+haskell-tf-random
 hdf5
 hdparm
 hicolor-icon-theme
