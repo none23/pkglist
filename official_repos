@@ -1404,6 +1404,7 @@ wpa_actiond
 wpa_supplicant
 wxgtk-common
 wxgtk2
+wxgtk3
 wxpython
 x11-ssh-askpass
 x265
