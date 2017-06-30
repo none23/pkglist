@@ -2,8 +2,6 @@ abs
 awesome-git
 gimp-plugin-mathmap
 gnome-vfs
-kaa-base
-kaa-imlib2
 libbonobo
 libbonoboui
 libgnome
@@ -27,7 +25,6 @@ qt5-styleplugins-git
 shallot-git
 systemd-readahead
 tor-browser-en
-webkitgtk2
 xorg-server-utils
 xorg-utils
 yaourt
