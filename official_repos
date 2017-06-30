@@ -366,8 +366,6 @@ jupyter-nbformat
 jupyter-notebook
 jupyter-widgetsnbextension
 jupyter_console
-kaa-base
-kaa-imlib2
 karchive
 kauth
 kbd
@@ -1389,7 +1387,6 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
-webkitgtk2
 webrtc-audio-processing
 wget
 which
