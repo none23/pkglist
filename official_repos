@@ -16,6 +16,7 @@ alsa-utils
 android-tools
 android-udev
 antiword
+apm
 apr
 apr-util
 arandr
@@ -30,6 +31,7 @@ at-spi2-atk
 at-spi2-core
 atk
 atkmm
+atom
 atool
 attica-qt4
 attica-qt5
@@ -135,6 +137,7 @@ dri3proto
 e2fsprogs
 efibootmgr
 efivar
+electron
 elfutils
 elinks
 enca
