@@ -101,8 +101,6 @@ cpupower
 cracklib
 crda
 cryptsetup
-cups
-cups-filters
 curl
 damageproto
 db
@@ -282,7 +280,6 @@ gtkspell
 gtkspell3
 gts
 guile
-gutenprint
 guvcview
 gvfs
 gvfs-afc
@@ -564,7 +561,6 @@ liblangtag
 libldap
 liblightdm-qt4
 liblightdm-qt5
-liblouis
 liblqr
 libmad
 libmariadbclient
@@ -1183,7 +1179,6 @@ python2-xdg
 python2-zope-interface
 qbs
 qhull
-qpdf
 qscintilla-qt4
 qscintilla-qt5
 qt4
