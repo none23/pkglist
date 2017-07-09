@@ -186,6 +186,7 @@ fribidi
 ftgl
 fuse-common
 fuse2
+fuse3
 gamin
 gawk
 gc
@@ -239,6 +240,7 @@ gnuplot
 gnutls
 gobject-introspection-runtime
 gpart
+gparted
 gperf
 gpgme
 gpm
