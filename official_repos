@@ -851,6 +851,7 @@ orc
 os-prober
 otf-fira-mono
 otf-fira-sans
+otf-overpass
 oxygen-gtk2
 oxygen-icons
 oxygen-icons-svg
@@ -1345,7 +1346,6 @@ ttf-ionicons
 ttf-liberation
 ttf-linux-libertine
 ttf-linux-libertine-g
-ttf-overpass
 ttf-roboto
 ttf-symbola
 ttf-ubuntu-font-family
