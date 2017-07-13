@@ -5,7 +5,6 @@ acl
 acorn
 acpi
 adwaita-icon-theme
-afpfs-ng
 aircrack-ng
 alembic
 alsa-firmware
@@ -17,8 +16,6 @@ android-tools
 android-udev
 antiword
 apm
-apr
-apr-util
 arandr
 arch-install-scripts
 archiso
@@ -314,7 +311,6 @@ hunspell
 hwids
 hwinfo
 hwloc
-hydra
 hyphen
 i3-wm
 i3lock
@@ -358,7 +354,6 @@ jq
 jre8-openjdk
 jre8-openjdk-headless
 js
-js185
 jshon
 json-glib
 jsoncpp
@@ -964,9 +959,6 @@ poppler
 poppler-glib
 popt
 portaudio
-postgresql
-postgresql-libs
-postgresql-old-upgrade
 potrace
 powerline
 powerline-common
@@ -1049,7 +1041,6 @@ python-pluggy
 python-ply
 python-powerline
 python-prompt_toolkit
-python-psycopg2
 python-ptyprocess
 python-py
 python-pyasn1
@@ -1246,7 +1237,6 @@ sdl_ttf
 sdparm
 sed
 semver
-serf
 shadow
 shared-mime-info
 shellcheck
@@ -1284,7 +1274,6 @@ startup-notification
 strace
 stress
 stunnel
-subversion
 sudo
 suitesparse
 swh-plugins
