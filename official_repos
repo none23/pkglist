@@ -1280,7 +1280,6 @@ swh-plugins
 sysfsutils
 sysstat
 systemd
-systemd-sysvcompat
 systemsettings
 t1lib
 t1utils
