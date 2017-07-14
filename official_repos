@@ -5,7 +5,6 @@ acl
 acorn
 acpi
 adwaita-icon-theme
-afpfs-ng
 aircrack-ng
 alembic
 alsa-firmware
@@ -16,8 +15,6 @@ alsa-utils
 android-tools
 android-udev
 antiword
-apr
-apr-util
 arandr
 arch-install-scripts
 archiso
@@ -57,7 +54,6 @@ blosc
 bluez-libs
 boost
 boost-libs
-bower
 breeze-icons
 bridge-utils
 browserify
@@ -99,8 +95,6 @@ cpupower
 cracklib
 crda
 cryptsetup
-cups
-cups-filters
 curl
 damageproto
 db
@@ -124,8 +118,6 @@ dmxproto
 dnssec-anchors
 docbook-xml
 docbook-xsl
-docker
-docker-compose
 dos2unix
 dosfstools
 dotconf
@@ -178,13 +170,13 @@ fonteditfs
 fontforge
 fontsproto
 fortune-mod
-frameworkintegration
 freeglut
 freetype2
 fribidi
 ftgl
 fuse-common
 fuse2
+fuse3
 gamin
 gawk
 gc
@@ -265,7 +257,6 @@ gtk-engine-murrine
 gtk-engines
 gtk-theme-switch2
 gtk-update-icon-cache
-gtk-vnc
 gtk2
 gtk2-perl
 gtk3
@@ -279,8 +270,6 @@ gtkspell
 gtkspell3
 gts
 guile
-gutenprint
-guvcview
 gvfs
 gvfs-afc
 gvfs-smb
@@ -313,7 +302,6 @@ hunspell
 hwids
 hwinfo
 hwloc
-hydra
 hyphen
 i3-wm
 i3lock
@@ -361,11 +349,6 @@ js185
 jshon
 json-glib
 jsoncpp
-jupyter
-jupyter-nbformat
-jupyter-notebook
-jupyter-widgetsnbextension
-jupyter_console
 karchive
 kauth
 kbd
@@ -382,11 +365,8 @@ kdbusaddons
 kde-cli-tools
 kde-gtk-config
 kdeclarative
-kded
 kdelibs
-kdelibs4support
 kdesu
-kemoticons
 keychain
 keyutils
 kglobalaccel
@@ -396,7 +376,6 @@ ki18n
 kiconthemes
 kinit
 kio
-kitemmodels
 kitemviews
 kjobwidgets
 kjs
@@ -412,7 +391,6 @@ kpty
 krb5
 kservice
 ktextwidgets
-kunitconversion
 kwallet
 kwidgetsaddons
 kwindowsystem
@@ -561,7 +539,6 @@ liblangtag
 libldap
 liblightdm-qt4
 liblightdm-qt5
-liblouis
 liblqr
 libmad
 libmariadbclient
@@ -797,7 +774,6 @@ neon
 neovim
 net-snmp
 net-tools
-netcdf
 netcf
 netctl
 nettle
@@ -821,7 +797,6 @@ ntp
 numactl
 ocaml
 ocl-icd
-octave
 oniguruma
 openal
 openbsd-netcat
@@ -850,9 +825,9 @@ orc
 os-prober
 otf-fira-mono
 otf-fira-sans
+otf-overpass
 oxygen-gtk2
 oxygen-icons
-oxygen-icons-svg
 p11-kit
 p7zip
 pacgraph
@@ -969,9 +944,6 @@ poppler
 poppler-glib
 popt
 portaudio
-postgresql
-postgresql-libs
-postgresql-old-upgrade
 potrace
 powerline
 powerline-common
@@ -989,7 +961,6 @@ psmisc
 pstoedit
 ptex
 pth
-pycuda-headers
 pygobject-devel
 pygobject2-devel
 pygtk
@@ -1024,19 +995,14 @@ python-httplib2
 python-idna
 python-imagesize
 python-ipdb
-python-ipykernel
-python-ipywidgets
 python-isort
 python-jdcal
 python-jinja
 python-jmespath
 python-jsonschema
-python-jupyter_client
-python-jupyter_core
 python-lxml
 python-markupsafe
 python-mccabe
-python-mistune
 python-msgpack
 python-neovim
 python-nose
@@ -1054,7 +1020,6 @@ python-pluggy
 python-ply
 python-powerline
 python-prompt_toolkit
-python-psycopg2
 python-ptyprocess
 python-py
 python-pyasn1
@@ -1071,7 +1036,6 @@ python-pytest
 python-pytest-django
 python-pytz
 python-pyx
-python-pyzmq
 python-requests
 python-rsa
 python-secretstorage
@@ -1085,9 +1049,7 @@ python-sphinx_rtd_theme
 python-sphinxcontrib-websupport
 python-sqlalchemy
 python-stevedore
-python-terminado
 python-texttable
-python-tornado
 python-traitlets
 python-urllib3
 python-virtualenv
@@ -1180,7 +1142,6 @@ python2-xdg
 python2-zope-interface
 qbs
 qhull
-qpdf
 qscintilla-qt4
 qscintilla-qt5
 qt4
@@ -1208,7 +1169,6 @@ qtcurve-gtk2
 qtcurve-qt4
 qtcurve-qt5
 qtcurve-utils
-r
 randrproto
 ranger
 raptor
@@ -1252,7 +1212,6 @@ sdl_ttf
 sdparm
 sed
 semver
-serf
 shadow
 shared-mime-info
 shellcheck
@@ -1290,7 +1249,6 @@ startup-notification
 strace
 stress
 stunnel
-subversion
 sudo
 suitesparse
 swh-plugins
@@ -1324,7 +1282,6 @@ tmux
 tor
 torsocks
 traceroute
-transmission-cli
 transmission-qt
 transset-df
 tre
@@ -1353,7 +1310,6 @@ turbostat
 tzdata
 udevil
 udisks2
-uglify-js
 unclutter
 unhide
 unibilium
@@ -1394,12 +1350,12 @@ wireless-regdb
 wireless_tools
 wireshark-cli
 wireshark-common
-wireshark-gtk
 wireshark-qt
 wpa_actiond
 wpa_supplicant
 wxgtk-common
 wxgtk2
+wxgtk3
 wxpython
 x11-ssh-askpass
 x265
@@ -1501,8 +1457,6 @@ xterm
 xvidcore
 xz
 yajl
-you-get
-youtube-dl
 zathura
 zathura-djvu
 zathura-pdf-mupdf

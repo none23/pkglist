@@ -2,15 +2,12 @@ abs
 awesome-git
 gimp-plugin-mathmap
 gnome-vfs
-kaa-base
-kaa-imlib2
 libbonobo
 libbonoboui
 libgnome
 libgnome-data
 libgnomeui
 libkactivities4
-libqzeitgeist
 luacheck
 orbit2
 package-query
@@ -27,8 +24,6 @@ qt5-styleplugins-git
 shallot-git
 systemd-readahead
 tor-browser-en
-ttf-overpass
-webkitgtk2
 xorg-server-utils
 xorg-utils
 yaourt
