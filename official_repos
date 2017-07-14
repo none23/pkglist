@@ -210,7 +210,6 @@ giflib
 gimp
 gimp-dbp
 gimp-plugin-lqr
-gimp-plugin-mathmap
 gimp-plugin-wavelet-denoise
 gimp-refocus
 girara
@@ -367,8 +366,6 @@ jupyter-nbformat
 jupyter-notebook
 jupyter-widgetsnbextension
 jupyter_console
-kaa-base
-kaa-imlib2
 karchive
 kauth
 kbd
@@ -1348,7 +1345,6 @@ ttf-ionicons
 ttf-liberation
 ttf-linux-libertine
 ttf-linux-libertine-g
-ttf-overpass
 ttf-roboto
 ttf-symbola
 ttf-ubuntu-font-family
@@ -1390,7 +1386,6 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
-webkitgtk2
 webrtc-audio-processing
 wget
 which
