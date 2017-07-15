@@ -15,7 +15,6 @@ alsa-utils
 android-tools
 android-udev
 antiword
-apm
 arandr
 arch-install-scripts
 archiso
@@ -28,7 +27,6 @@ at-spi2-atk
 at-spi2-core
 atk
 atkmm
-atom
 atool
 attica-qt4
 attica-qt5
@@ -130,7 +128,6 @@ e2fsprogs
 efibootmgr
 efitools
 efivar
-electron
 elfutils
 elinks
 enca
@@ -350,6 +347,7 @@ jq
 jre8-openjdk
 jre8-openjdk-headless
 js
+js185
 jshon
 json-glib
 jsoncpp
@@ -1260,6 +1258,7 @@ swh-plugins
 sysfsutils
 sysstat
 systemd
+systemd-sysvcompat
 systemsettings
 t1lib
 t1utils
