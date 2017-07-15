@@ -126,6 +126,7 @@ dri2proto
 dri3proto
 e2fsprogs
 efibootmgr
+efitools
 efivar
 elfutils
 elinks
@@ -1200,6 +1201,7 @@ rxvt-unicode
 rxvt-unicode-terminfo
 s-nail
 sbc
+sbsigntools
 scapy
 schroedinger
 schroot
