@@ -24,6 +24,7 @@ python2-nmap
 qt5-styleplugins-git
 shallot-git
 systemd-readahead
+telegram-cli-git
 tor-browser-en
 xorg-server-utils
 xorg-utils
