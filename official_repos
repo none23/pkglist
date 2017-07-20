@@ -20,7 +20,6 @@ arch-install-scripts
 archiso
 archlinux-keyring
 arj
-arpack
 asciidoc
 aspell
 at-spi2-atk
@@ -208,14 +207,12 @@ gimp-refocus
 girara
 git
 gksu
-gl2ps
 glew
 glib-networking
 glib-perl
 glib2
 glibc
 glibmm
-glpk
 glproto
 glu
 gmetadom
@@ -303,7 +300,6 @@ hub
 hunspell
 hwids
 hwinfo
-hwloc
 hyphen
 i3-wm
 i3lock
@@ -347,7 +343,6 @@ jq
 jre8-openjdk
 jre8-openjdk-headless
 js
-js185
 jshon
 json-glib
 jsoncpp
@@ -747,7 +742,6 @@ mediainfo
 mesa
 mesa-demos
 mesa-vdpau
-metis
 mftrace
 mime-types
 minicom
@@ -813,7 +807,6 @@ openexr
 openimageio
 openjpeg
 openjpeg2
-openmpi
 openresolv
 openshadinglanguage
 openssh
@@ -972,7 +965,6 @@ python-appdirs
 python-asn1crypto
 python-babel
 python-bcrypt
-python-cached-property
 python-cairo
 python-capstone
 python-cffi
@@ -984,10 +976,6 @@ python-dateutil
 python-dbus
 python-dbus-common
 python-decorator
-python-docker
-python-docker-pycreds
-python-dockerpty
-python-docopt
 python-docutils
 python-et-xmlfile
 python-gnuplot
@@ -1001,7 +989,6 @@ python-isort
 python-jdcal
 python-jinja
 python-jmespath
-python-jsonschema
 python-lxml
 python-markupsafe
 python-mccabe
@@ -1051,19 +1038,16 @@ python-sphinx_rtd_theme
 python-sphinxcontrib-websupport
 python-sqlalchemy
 python-stevedore
-python-texttable
 python-traitlets
 python-urllib3
 python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
 python-wcwidth
-python-websocket-client
 python-whoosh
 python-xdg
 python-xlrd
 python-xlwt
-python-yaml
 python2
 python2-appdirs
 python2-asn1crypto
@@ -1119,7 +1103,6 @@ python2-pyopenssl
 python2-pyparsing
 python2-pyqt4
 python2-pytz
-python2-pyx
 python2-reportlab
 python2-requests
 python2-scour
@@ -1143,9 +1126,7 @@ python2-whoosh
 python2-xdg
 python2-zope-interface
 qbs
-qhull
 qscintilla-qt4
-qscintilla-qt5
 qt4
 qt5-base
 qt5-declarative
@@ -1253,7 +1234,6 @@ strace
 stress
 stunnel
 sudo
-suitesparse
 swh-plugins
 sysfsutils
 sysstat
