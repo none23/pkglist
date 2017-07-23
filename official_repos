@@ -1,6 +1,7 @@
 a52dec
 aalib
 accountsservice
+ack
 acl
 acorn
 acpi
@@ -15,6 +16,8 @@ alsa-utils
 android-tools
 android-udev
 antiword
+apr
+apr-util
 arandr
 arch-install-scripts
 archiso
@@ -105,6 +108,7 @@ dcfldd
 dconf
 desktop-file-utils
 device-mapper
+devtools
 dhclient
 dhcpcd
 dialog
@@ -552,6 +556,7 @@ libmp4v2
 libmpc
 libmpcdec
 libmpeg2
+libmspack
 libmspub
 libmtp
 libmwaw
@@ -705,6 +710,7 @@ lightdm-gtk-greeter
 links
 linux
 linux-api-headers
+linux-docs
 linux-firmware
 linux-headers
 lirc
@@ -763,6 +769,7 @@ mtd-utils
 mtdev
 mtools
 mysql-python
+namcap
 nano
 ncdu
 ncftp
@@ -869,6 +876,7 @@ perl-file-basedir
 perl-file-desktopentry
 perl-file-listing
 perl-file-mimeinfo
+perl-file-next
 perl-file-sharedir
 perl-file-sharedir-install
 perl-html-parser
@@ -959,6 +967,7 @@ psmisc
 pstoedit
 ptex
 pth
+pyalpm
 pygobject-devel
 pygobject2-devel
 pygtk
@@ -1018,6 +1027,7 @@ python-pyasn1
 python-pyasn1-modules
 python-pycodestyle
 python-pycparser
+python-pyelftools
 python-pyflakes
 python-pygments
 python-pynacl
@@ -1199,6 +1209,7 @@ sdl_ttf
 sdparm
 sed
 semver
+serf
 shadow
 shared-mime-info
 shellcheck
@@ -1236,6 +1247,7 @@ startup-notification
 strace
 stress
 stunnel
+subversion
 sudo
 swh-plugins
 sysfsutils
