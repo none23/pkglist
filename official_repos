@@ -223,10 +223,12 @@ gnome-icon-theme-symbolic
 gnome-keyring
 gnome-mime-data
 gnome-themes-standard
+gnumeric
 gnupg
 gnuplot
 gnutls
 gobject-introspection-runtime
+goffice
 gpart
 gparted
 gperf
@@ -601,6 +603,7 @@ libsndfile
 libsodium
 libsoup
 libsoxr
+libspectre
 libspeechd
 libspiro
 libspnav
