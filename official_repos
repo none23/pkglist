@@ -16,6 +16,7 @@ alsa-utils
 android-tools
 android-udev
 antiword
+apm
 apr
 apr-util
 arandr
@@ -29,6 +30,7 @@ at-spi2-atk
 at-spi2-core
 atk
 atkmm
+atom
 atool
 attica-qt4
 attica-qt5
@@ -131,6 +133,7 @@ e2fsprogs
 efibootmgr
 efitools
 efivar
+electron
 elfutils
 elinks
 enca
@@ -1270,6 +1273,7 @@ tevent
 texinfo
 texlive-bin
 texlive-core
+the_silver_searcher
 thin-provisioning-tools
 thunar
 thunar-archive-plugin
