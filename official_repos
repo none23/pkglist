@@ -537,6 +537,7 @@ libimobiledevice
 libinput
 libisoburn
 libisofs
+libixion
 libjpeg-turbo
 libkate
 libksba
@@ -578,6 +579,7 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
+liborcus
 libotf
 libpagemaker
 libpaper
@@ -630,6 +632,7 @@ libtheora
 libtiff
 libtiger
 libtirpc
+libtommath
 libtool
 libtraceevent
 libtxc_dxtn
@@ -706,6 +709,7 @@ libxxf86vm
 libyaml
 libzen
 libzip
+libzmf
 licenses
 lightdm
 lightdm-gtk-greeter
