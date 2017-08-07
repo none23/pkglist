@@ -1192,6 +1192,7 @@ rasqal
 re2
 read-edid
 readline
+reaver
 recode
 recordproto
 redland
@@ -1364,6 +1365,7 @@ webkit2gtk
 webrtc-audio-processing
 wget
 which
+wifite
 wildmidi
 wireless-regdb
 wireless_tools

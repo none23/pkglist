@@ -13,6 +13,7 @@ luacheck
 orbit2
 package-query
 packer
+pixiewps
 python-bcdoc
 python-gspread
 python-guzzle-sphinx-theme
