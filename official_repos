@@ -23,6 +23,9 @@ arandr
 arch-install-scripts
 archiso
 archlinux-keyring
+arduino
+arduino-builder
+arduino-ctags
 arj
 asciidoc
 aspell
