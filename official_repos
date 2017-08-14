@@ -89,7 +89,6 @@ celt
 cgroup_event_listener
 chromaprint
 chromium
-chrpath
 cifs-utils
 clang
 clucene
@@ -460,7 +459,6 @@ lib32-zlib
 libabw
 libaio
 libao
-libappindicator-gtk2
 libarchive
 libart-lgpl
 libass
@@ -491,8 +489,6 @@ libcryptui
 libcups
 libdaemon
 libdatrie
-libdbusmenu-glib
-libdbusmenu-gtk2
 libdbusmenu-qt4
 libdbusmenu-qt5
 libdc1394
@@ -547,7 +543,6 @@ libidl2
 libidn
 libiec61883
 libimobiledevice
-libindicator-gtk2
 libinput
 libisoburn
 libisofs
@@ -808,7 +803,6 @@ networkmanager-qt
 nfs-utils
 nfsidmap
 nilfs-utils
-ninja
 nmap
 nodejs
 notification-daemon

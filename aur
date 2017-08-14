@@ -1,6 +1,5 @@
 abs
 awesome-git
-depot-tools-git
 gimp-plugin-mathmap
 gnome-vfs
 iucode-tool
@@ -27,6 +26,7 @@ qt5-styleplugins-git
 shallot-git
 systemd-readahead
 telegram-cli-git
+telegram-desktop-bin
 tor-browser-en
 xorg-server-utils
 xorg-utils
