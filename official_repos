@@ -89,7 +89,6 @@ celt
 cgroup_event_listener
 chromaprint
 chromium
-chrpath
 cifs-utils
 clang
 clucene
@@ -209,7 +208,6 @@ geoclue2
 geoip
 geoip-database
 gettext
-ghc
 ghc-libs
 ghostscript
 giblib
