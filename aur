@@ -28,6 +28,7 @@ systemd-readahead
 telegram-cli-git
 telegram-desktop-bin
 tor-browser-en
+watchman
 xorg-server-utils
 xorg-utils
 yaourt
