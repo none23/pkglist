@@ -803,6 +803,7 @@ networkmanager-qt
 nfs-utils
 nfsidmap
 nilfs-utils
+ninja
 nmap
 nodejs
 notification-daemon
