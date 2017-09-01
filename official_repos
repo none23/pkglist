@@ -702,7 +702,6 @@ libxklavier
 libxml++
 libxml2
 libxmu
-libxp
 libxpm
 libxrandr
 libxrender
@@ -971,7 +970,6 @@ powerline-common
 powerline-fonts
 ppp
 presentproto
-printproto
 procinfo-ng
 procps-ng
 profont
@@ -1473,7 +1471,6 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
-xpdf
 xproto
 xscreensaver
 xsd
