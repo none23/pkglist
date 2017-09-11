@@ -26,6 +26,7 @@ qt5-styleplugins-git
 shallot-git
 systemd-readahead
 telegram-cli-git
+telegram-desktop-bin
 tor-browser-en
 watchman
 xorg-server-utils
