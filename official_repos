@@ -305,6 +305,7 @@ haskell-base-orphans
 haskell-base-prelude
 haskell-base-unicode-symbols
 haskell-base64-bytestring
+haskell-basement
 haskell-bifunctors
 haskell-binary-parser
 haskell-blaze-builder
